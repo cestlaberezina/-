@@ -1,0 +1,4 @@
+- is a persistence of [[sound]] after it is produced
+- is created when a [[sound]] or [[signal]] is [[reflect]]ed. this [[cause]]s numerous [[reflect]]ions to build up and then [[decay]] [[pulsation]] as the [[sound]] is [[absorb]]ed by the [[surface]]s of [[object]]s in the [[space]]
+- music to exploit the acoustics of certain buildings (churches) [[environment]]
+- 

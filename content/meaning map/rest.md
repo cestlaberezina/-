@@ -1,0 +1,1 @@
+>not only does stillness ([[stasis]]) arrest the destructive [[agitation]] (of the [[subject]]), but it also brings the [[object]] to rest

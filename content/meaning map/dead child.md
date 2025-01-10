@@ -1,0 +1,1 @@
+>"I'm going to die because that's what you want me to do, but I hate you for it. And I hate you for it because I [[love]] you so much. And you hurt me"

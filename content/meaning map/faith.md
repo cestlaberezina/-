@@ -1,0 +1,1 @@
+[[god]] [[belief]] [[serve]] [[movement]] 

@@ -1,0 +1,1 @@
+>an organized set of [[random]]ly selected [[moment]]s where breaks [[gap]] [[disruption]] should occur

@@ -1,0 +1,3 @@
+>unheeded [[parent]]al threats, wishes and commands [[become]] manifest. they gain [[power]] much later on in [[life]]. the child, for reasons of [[selfpreservation]], may reject [[mother]], ignore her, but the [[mother]]'s [[introject]], the [[mother]]'s [[voice]], the [[internal]] [[object]] that represents the [[mother]] is embedded and implanted and installed in the child's mind. when the child grows up and becomes an [[adult]], this [[thing]], this [[foreign body]] [[entity]] is activated. then the child [[obey]]s these [[mystery]]ious inaccessible voices in his head. totally [[unconscious]]
+
+[[button]]

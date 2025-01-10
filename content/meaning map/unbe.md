@@ -1,0 +1,1 @@
+the best [[environment]] to living is [[mother]]'s [[womb]] where you could unbe legitimately and [[become]]

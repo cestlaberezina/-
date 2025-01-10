@@ -1,0 +1,4 @@
+- is correct when it acts as a [[metaphor]] for [[knowledge]] that is in a state of [[intuition]]
+- [[consonance]] with its [[signifier]]s, which lead to the construction of a [[phantasm]]
+
+>if there is no [[consonance]], the [[subject]] does not [[construct]], does not achieve something in relation to the [[object]] of [[desire]]. the [[subject]] [[perceive]]s important [[thing]]s intuitively, and they are [[discovery]] by him from the very beginning. without [[intuition]] there are no [[discovery]]. in analysis, in the [[process]] of developing [[knowledge]], the [[subject]] is surprised, but not frightened. stunned, frightened - this is a [[naive]], philosophical [[reaction]]; amazement, surprise - this is the [[reaction]] of the [[analysand]] who [[succumb]]s to the reading of the [[truth]], that which breaks out ([[the real]]) [[hochman]]

@@ -1,0 +1,1 @@
+result of the degeneration of [[cell]]s

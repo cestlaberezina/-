@@ -1,0 +1,1 @@
+[[gap]] [[disruption]] [[absence]] [[nothing]]

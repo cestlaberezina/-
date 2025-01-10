@@ -1,0 +1,3 @@
+- in [[between]]
+- [[resonance]] as an [[express]]ion of [[experience]] of the [[subject]]
+- [[libido]]

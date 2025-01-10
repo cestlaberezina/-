@@ -1,0 +1,9 @@
+>loss stands in the midst of the two diverse [[reaction]]s, but in the first [[trauer]] it is a [[conscious]] and locatable one, while in the second [[melancholie]] the deep [[feel]]ing and [[sorrow]] for the loss, [[become]]s [[unconscious]]
+>
+>the [[trauer]]’s loss seems to have drained out the [[world]] itself, stretching out the site of loss to [[contain]] everything but the [[dejected]] [[subject]]
+
+>the loss of the [[ego]] that [[freud]] inscribes to the [[melancholie]] is the aftermath of the loss of [[love]]. it comes about when the [[lost object]] is [[internal]]ized into the [[pain]]-stricken [[ego]], consequently [[split]]ting it apart, dividing it from the inside and [[render]]ing the [[ego]] itself [[lost object]]. the [[internal]]ization of the loss, presents an interior [[absence]] within the [[ego]], turning the latter into the battlefield of [[separate]]ion, which at the end of the [[process]] is emptied out [[void]]. the [[schizophrenic]] divide within the [[ego]], creates a [[space]] in which the [[ambivalence]] and hatred originally produced with regard to the loss, is turned towards the [[self]]. the [[pathology]]ical [[identity]]fication with the [[lost object]] is thus the ground upon which the [[ego]] attacks itself
+
+>loss is the condition of the possibility of [[trauerarbeit]], which is structured as abounding [[response]]s to this loss in its [[subject]] [[matter]] ([[benjamin]]). thus, as in [[freud]], loss occupies both the condition and the arena of its effect.
+
+>a loss which is not an effect of [[work]], but of [[rest]] = [[trauerspiel]], and it is the [[trace]]s of that which was destructed and lost, which present themselves in the [[truth]]. the product of the philosophical [[work]], the idea, which is produced from the condition of [[loss]], will always bear its [[trace]]s

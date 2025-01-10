@@ -1,0 +1,1 @@
+ [[ethics]] [[moral]] [[civilized morality]] [[tyranny]]

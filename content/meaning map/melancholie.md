@@ -1,0 +1,24 @@
+"the shadow of the [[object]] fell upon the [[ego]]" [[freud]]. [[overwhelming]] [[commitment]] to [[loss]], which takes over the [[psyche]] at the price of giving up the [[well-being]] of the [[self]] and the [[ego]]. 
+
+the melancholic [[act]] of [[internal]]ization [[introject]] circumscribes the [[loss]] and [[sacrifice]]s the [[self]] for its sake. the [[economy]] of the [[self]] becomes [[marginal]] in relation to the [[responsibility]] towards that which was lost. the [[absence]] cannot be replaced by anything since no [[symbol]]ic [[mediate]]ion will ever be sufficient, not even [[memory]]. the melancholic thus gives up the [[external]] [[world]] as a [[source]] for the [[construct]]ion of the [[self]], and is destructively satisfied by his own [[split]] [[tormented]] [[internal]]iority, that becomes an [[express]]ion for his [[infinite]] loyalty. (Ilit FERBER)
+
+the [[libido]]inal [[invest]]ment was replaced by an identifiable [[link]] with the [[lost object]], an [[ego]] belittled and confused with the [[object]]
+itself -- is the target of all the [[aggression]]veness of the [[superego]]. while taking [[refuge]] in a [[narcissism]]tic [[identity]]fication, by not
+[[being]] able to renounce the [[love]] for the [[object of love]], the [[subject]] digs his own [[grave]] toward melancholy
+
+>[[benjamin]] does not view melancholy as an illness to be overcome or cured [[pathology]], but rather as a [[mood]] or [[disposition]] towards the [[world]]
+
+>the [[object]] has not perhaps actually died [[death]], but has been lost as an [[object of love]]. in yet [[other]] cases one feels justified in maintaining the [[belief]] that a [[loss]] of this kind has occurred, but one cannot see clearly what it is that has been lost. this would suggest that melancholia is in some way related to an [[object-loss]] which is withdrawn from [[conscious]]ness, in contradiction to mourning [[trauer]], in which there is [[nothing]] about the [[loss]] that is [[unconscious]]
+
+>there is no [[ lost object]] to which one can [[direct]] his [[sorrow]], turns the melancholic’s eyes inward in a [[nietzsche]]an [[gesture]], only to find his own lost [[conscious]].
+
+>the [[lost-loved object]] takes flight into the [[sanctuary]] of the [[ego]], in order not to be extinguished. no [[trauer]] is possible here, the [[work]] of parting [[separate]] is blocked in melancholia, writes [[freud]], since there is a basis of [[ambivalence]] that wishes to [[hold]] the [[object]] and to let go of it at the same time. advocates killing off the [[trace]]s of [[attachment]] to the [[other]] = [[freud]] professes that a [[subject]] can in fact [[existence]] without [[trace]]s of what he has [[loss]]t, or in [[other]] words, the healthy [[norms]] [[subject]] for him is capable of repudiating [[attachment]]s to [[loss]]t [[other]]s. this [[avowal]] would turn extremely problematic in **[[benjamin]] who understands the [[work]] undertaken in [[trauer]] not as an overcoming and effacement of [[loss]], but rather as the deepest [[articulate]]ion of its everlasting [[trace]]s.**
+
+>the objects are also an [[infinite]] reminder of the [[void]] that remains after all [[meaning]] and [[faith]] is gone. the [[power]] of this [[fertile]] [[void]] lies in its [[capacity]] to be [[fill]]ed with [[meaning]] again. the [[image]] of the [[world]] of [[thing]]s is an [[image]] of [[loss]], but a [[loss]] which has a [[potential]], albeit partial, for recuperation
+
+>the [[lost object]] is left to [[decay]] within the melancholic, the [[object]] is [[render]]ed un-[[work]]able, since the [[loss]] is itself lost [[freud]]
+
+>[[benjamin]]: [[work]] is aimed at presenting the [[lost object]], giving it a [[voice]] and consequently redeeming it. is transferring the [[concept]] of [[work]] from the [[realm]] of mourning to that of [[meaning]], thus the [[work]] of expression will be a deepening of the [[loss]], an extended deadening of the [[object]]. 
+>>>The [[object]] will not be disposed of but presented and given a [[voice]], and thus saved. Philosophy is not waiting to return to [[life]] after detaching itself from the lost [[object]]. Rather, it comes to its fullness from within this deadening. In [[other]] words, the [[work]] [[Benjamin]] is proposing is that of rendering the [[object]] _present, and not absent_ (as the mourner does). It is a [[work]] that lacks neither the [[pathology]] of melancholia, nor the normality of mourning — it is a sad [[work]],i n that it is still, almost heavy, lacking the libidinal-[[life]] [[energy]], which makes melancholy so destructive, and mourning so easily parting
+
+[[living-dead]]

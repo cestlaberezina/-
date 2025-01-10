@@ -1,0 +1,3 @@
+- [[subject]] is inseparable from their [[experience]]
+- [[somatics]]s and [[poetics]]
+- 

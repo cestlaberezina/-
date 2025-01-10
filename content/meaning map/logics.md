@@ -1,0 +1,2 @@
+- aristotelian western
+- [[paradox]]ical [[id]] eastetn

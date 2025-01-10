@@ -1,0 +1,1 @@
+[[language]] [[signifier]] [[voice]] [[subject]] to stand by [[singularity]]

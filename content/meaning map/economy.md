@@ -1,0 +1,1 @@
+[[energy]] [[resist]] [[work]]

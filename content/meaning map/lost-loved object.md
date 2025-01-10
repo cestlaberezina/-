@@ -1,0 +1,1 @@
+>the people we [[love]] are imminently replaceable and that we necessarily [[fail]] to appreciate exactly how [[other]] they are in this model. the [[loss]] of a [[object of love]] is understood as a temporary [[disruption]] of the [[trauer]]s [[narcissism]]

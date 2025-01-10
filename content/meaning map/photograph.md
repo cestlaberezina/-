@@ -1,0 +1,1 @@
+[[adventure]] [[happenning]] [[discovery]] [[risk]] [[scene]] [[disposition]] [[psychoanalysis]] [[ecstasy]] [[sacred]] [[search]] [[singularity]] [[agency]] [[subject]] [[the sexual real]] [[aesthetics]] [[work]] [[art]] [[articulate]] [[relational arts]] [[reality]]

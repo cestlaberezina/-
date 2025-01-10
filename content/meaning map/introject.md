@@ -1,0 +1,3 @@
+>as [[laplanche]] writes with such insight, “far from [[being]] my kernel, it is the [[other]] [[implant]]ed in me, the [[metabolism]]ed product of the [[other]] in me: forever an “[[internal]] [[foreign body]]”
+
+>this laden state of [[self]] destructive [[internal]]ization, is an [[embody]]iment of the [[infinite]] [[commitment]] and [[responsibility]] the [[melancholie]] feels towards his [[object]]. for the [[melancholie]], the only way to keep the [[object]] is to [[destroy]] it

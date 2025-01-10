@@ -1,0 +1,1 @@
+[[isolation]] x [[death]]

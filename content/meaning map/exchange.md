@@ -1,0 +1,4 @@
+- [[give]]
+- [[receive]]
+- [[take]]
+- [[dedicate]]

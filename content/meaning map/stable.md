@@ -1,0 +1,1 @@
+[[stasis]] or [[sustain]] [[dynamic]] [[balance]] 

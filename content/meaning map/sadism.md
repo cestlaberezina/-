@@ -1,0 +1,1 @@
+[[suppression]] [[control]] [[tyranny]] [[power]] [[masochism]] [[serve]] [[obey]] 

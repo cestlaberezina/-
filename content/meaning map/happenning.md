@@ -1,0 +1,5 @@
+- oposed to [[performance]] 
+- a [[space]] for the [[dialogue]] to happen
+- no [[agenda]]
+- [[together with]]
+- [[trauerarbeit]]

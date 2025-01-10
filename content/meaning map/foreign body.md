@@ -1,0 +1,7 @@
+- alien
+- foreigner
+- [[other]]
+- [[biodiversity]]
+- [[differentiation]]
+- [[lonesome]]
+- from “another [[place]]”

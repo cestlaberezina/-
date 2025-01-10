@@ -1,0 +1,1 @@
+[[control]] [[power]] [[territorialization]] [[language]] [[politic]] [[discourse]] 

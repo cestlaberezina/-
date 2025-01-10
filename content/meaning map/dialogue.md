@@ -1,0 +1,13 @@
+- [[together with]]
+- [[adventure]]
+- [[happenning]]
+- [[direct]]
+- the [[other]] is a [[being]]
+- [[exchange]]
+- a [[shared]] [[space]]
+- [[cobeing]]
+- [[catalyst]]
+- [[the real]]
+- [[essence]]tial
+- [[internal]] as an option
+- [[resonance]]

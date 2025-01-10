@@ -1,0 +1,3 @@
+[[deleuze]]
+[[eisenstein]]
+[[pathos]]

@@ -1,0 +1,1 @@
+a characteristic or inherent part

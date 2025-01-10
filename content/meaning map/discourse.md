@@ -1,0 +1,4 @@
+- [[language]]
+- [[social order]]
+- social structures
+- [[politic]]

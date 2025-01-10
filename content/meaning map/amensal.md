@@ -1,0 +1,1 @@
+asymmetrical competitive [[interaction]] (competition\antibiosis)

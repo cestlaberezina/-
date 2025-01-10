@@ -1,0 +1,1 @@
+returning cinema to its elementary units of [[vision]] and [[movement]]. the opportunity to transcend ([[deterritorialization]]) "story," to ridicule "character," "setting," and "plot" ([[agenda]]) as bourgeois ([[territorialization]]) [[convention]]s, to eliminate causality by using the innate [[dynamic]]mism of film to overturn aristotelian notions of time and [[space]]

@@ -1,0 +1,1 @@
+everything [[decay]]s, everything degenerates, everything falls apart, everything is disassembled, everything returns to inorganic [[matter]]

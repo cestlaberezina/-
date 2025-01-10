@@ -1,0 +1,1 @@
+one benefits while the [[other]] is [[harm]]ed

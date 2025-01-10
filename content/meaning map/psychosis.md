@@ -1,0 +1,5 @@
+>[[lacan]] asserts that a psychotic [[structure]] [[emerge]]s from the foreclosure of the Name-of-the-Father. Thus, the foreclosure of the Name-of-the-Father is the central [[mechanism]] in psychosis and differentiates psychosis from [[neurosis]]
+
+>foreclosure is a unique form of negation such that the [[subject]] _never affirms_ the [[existence]] of the [[signifier]], the Name-of-the-Father. Consequently, this [[signifier]] is foreclosed and is never registered in the [[subject]]'s [[the symbolic]] universe. Instead of signifiers [[being]] repressed ([[neurosis]]), a [[mechanism]] that presupposes the [[judge]]ment of [[existence]] the foreclosure of the [[signifier]] the Name-of-the-Father leaves a [[hole]] in the [[other]] 
+
+the foreclosure of the [[signifier]] entails that the [[subject]] may encounter a [[hole]] in the [[symbol]]ic at pivotal [[junction]]ures in [[subject]]ive [[experience]]

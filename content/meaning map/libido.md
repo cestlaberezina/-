@@ -1,0 +1,5 @@
+- [[sex]]/[[life]] [[drive]]
+- [[the sexual real]]
+- an organ that is nowhere present on the [[body]]
+- the colour of emptiness [[void]], suspended in the [[light]] of a [[gap]] [[lacan]]
+- the [[ego]] and the libido [[freud]] deflect the [[mortido]], [[external]]ize it, [[project]] it outwardly, [[use]] the [[body]] to do this

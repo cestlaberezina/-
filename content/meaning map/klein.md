@@ -1,0 +1,1 @@
+[[mortido]] is used in klein's [[work]] to explain mental operations that seek to [[destroy]] [[sublime]] and well-synthesized [[ego]] [[attribute]]s and [[function]]s and the [[capacity]] for [[in-depth]] [[object]] [[relationship]].

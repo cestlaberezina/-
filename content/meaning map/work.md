@@ -1,0 +1,3 @@
+- arbeit -- [[traumarbeit]] [[trauerarbeit]] [[durcharbeitung]] verarbeitung (to deal emotionally with) / bearbeitung (elaboration)
+- werk = task, employment
+- [[rest]] work = [[play]] = [[fun]] -- [[trauerspiel]]

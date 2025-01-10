@@ -1,0 +1,1 @@
+the subjugation and assumption of [[control]]

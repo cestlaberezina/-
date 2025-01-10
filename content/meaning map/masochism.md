@@ -1,0 +1,1 @@
+[[suffer]] [[pain]] [[control]] [[narcissism]] [[nothing]] [[self-depreciation]] 
