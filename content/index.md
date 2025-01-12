@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Pauline Garbbha
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+about [[somatics]], [[art]] and [[analyst]].
