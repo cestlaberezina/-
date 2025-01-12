@@ -28,14 +28,13 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
+    Component.Graph(),
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
-  afterBody: [
-    Component.Graph(),
-  ],
+  afterBody: [],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
