@@ -47,5 +47,5 @@ export const defaultListPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer()),
   ],
   pageBody: Component.Graph(),
-  right: [],
+  right: Component.Graph(),
 }
