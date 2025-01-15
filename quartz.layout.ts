@@ -19,7 +19,7 @@ export const sharedPageComponents: SharedLayout = {
       THAW: "https://garbbha.github.io/quartz/1pages/that",
       THAH: "https://garbbha.github.io/quartz/1pages/that",
       THAQ: "https://garbbha.github.io/quartz/1pages/that",
-      THA: "https://garbbha.github.io/quartz/1pages/that",
+      THAZ: "https://garbbha.github.io/quartz/1pages/that",
     },
   }),
   left: [],
@@ -39,10 +39,10 @@ export const defaultContentPageLayout: PageLayout = {
         drag: true, // whether to allow panning the view around
         zoom: true, // whether to allow zooming in and out
         depth: 2, // how many hops of notes to display
-        scale: 1, // default view scale
-        repelForce: 0.5, // how much nodes should repel each other
+        scale: 1, // default view scale antoine
+        repelForce: 1, // how much nodes should repel each other antoine
         centerForce: 0.3, // how much force to use when trying to center the nodes
-        linkDistance: 20, // how long should the links be by default?
+        linkDistance: 10, // how long should the links be by default? antoine
         fontSize: 0.6, // what size should the node labels be?
         opacityScale: 0.5, // how quickly do we fade out the labels when zooming out?
         removeTags: [], // what tags to remove from the graph
@@ -52,9 +52,9 @@ export const defaultContentPageLayout: PageLayout = {
         drag: true,
         zoom: true,
         depth: -1,
-        scale: 5,
-        repelForce: 0.5,
-        centerForce: 0.3,
+        scale: 1, //antoine
+        repelForce: 0.3, //antoine
+        centerForce: 1, //antoine
         linkDistance: 30,
         fontSize: 0.6,
         opacityScale: 1,
