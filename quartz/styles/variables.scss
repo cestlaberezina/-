@@ -15,11 +15,11 @@ $tablet: "(min-width: #{map-get($breakpoints, mobile)}) and (max-width: #{map-ge
 $desktop: "(min-width: #{map-get($breakpoints, desktop)})";
 
 $pageWidth: #{map-get($breakpoints, mobile)};
-$sidePanelWidth: 320px; //380px;
+$sidePanelWidth: 5px; //320px; //380px;
 $topSpacing: 6rem;
 $boldWeight: 700;
-$semiBoldWeight: 600;
-$normalWeight: 400;
+$semiBoldWeight: 600; //600
+$normalWeight: 400; //400
 
 $mobileGrid: (
   templateRows: "auto auto auto auto auto",

@@ -4,22 +4,22 @@ import * as Component from "./quartz/components"
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [
-    Component.PageTitle(),
-    Component.Footer2({
-      links: {
-        this: "https://garbbha.github.io/quartz/1pages/this",
-        that: "https://garbbha.github.io/quartz/1pages/that",
-      },
-    }),
-    Component.Spacer(),    
-    Component.Darkmode(),
-    Component.Search(),
-  ],
+  header: [],
   afterBody: [],
   footer: Component.Footer({
     links: {
-      portfolio: "http://garbbha.tilda.ws",
+      THIS: "https://garbbha.github.io/quartz/1pages/this",
+      THAT: "https://garbbha.github.io/quartz/1pages/that",
+      THIP: "https://garbbha.github.io/quartz/1pages/this",
+      THAI: "https://garbbha.github.io/quartz/1pages/that",
+      THIR: "https://garbbha.github.io/quartz/1pages/this",
+      THAY: "https://garbbha.github.io/quartz/1pages/that",
+      THIE: "https://garbbha.github.io/quartz/1pages/this",
+      THAD: "https://garbbha.github.io/quartz/1pages/that",
+      THAW: "https://garbbha.github.io/quartz/1pages/that",
+      THAH: "https://garbbha.github.io/quartz/1pages/that",
+      THAQ: "https://garbbha.github.io/quartz/1pages/that",
+      THA: "https://garbbha.github.io/quartz/1pages/that",
     },
   }),
   left: [],
@@ -39,12 +39,12 @@ export const defaultContentPageLayout: PageLayout = {
         drag: true, // whether to allow panning the view around
         zoom: true, // whether to allow zooming in and out
         depth: 2, // how many hops of notes to display
-        scale: 1.3, // default view scale
+        scale: 1, // default view scale
         repelForce: 0.5, // how much nodes should repel each other
         centerForce: 0.3, // how much force to use when trying to center the nodes
-        linkDistance: 30, // how long should the links be by default?
+        linkDistance: 20, // how long should the links be by default?
         fontSize: 0.6, // what size should the node labels be?
-        opacityScale: 1, // how quickly do we fade out the labels when zooming out?
+        opacityScale: 0.5, // how quickly do we fade out the labels when zooming out?
         removeTags: [], // what tags to remove from the graph
         showTags: true, // whether to show tags in the graph
       },
@@ -52,7 +52,7 @@ export const defaultContentPageLayout: PageLayout = {
         drag: true,
         zoom: true,
         depth: -1,
-        scale: 0.2,
+        scale: 5,
         repelForce: 0.5,
         centerForce: 0.3,
         linkDistance: 30,
