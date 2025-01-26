@@ -169,7 +169,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     .force("collide", forceCollide<NodeData>((n) => nodeRadius(n)).iterations(3))
 
   const width = graph.offsetWidth
-  const height = Math.max(graph.offsetHeight, 500) //250 antoine
+  const height = Math.max(graph.offsetHeight, 250) //250 antoine
 
   // precompute style prop strings as pixi doesn't support css variables
   const cssVars = [
@@ -379,7 +379,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
       anchor: { x: 0.5, y: 1.2 },
       style: {
         fontSize: fontSize * 15,
-        fill: computedStyleMap["--dark"],
+        fill: computedStyleMap["--darkgray"],
         fontFamily: computedStyleMap["--bodyFont"],
       },
       resolution: window.devicePixelRatio * 4,

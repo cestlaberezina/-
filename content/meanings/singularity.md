@@ -1,2 +1,1 @@
 irreducible distinction
-- [[child]]

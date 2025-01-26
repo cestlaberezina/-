@@ -1,0 +1,3 @@
+this website is a [[raw]] version of my (paulines) [[semantic]] map, made to [[abode]] & [[articulate]] to [[other]]s the [[phenomen]]a of my [[work]] so its at their [[serv]]ice. to [[reach]] some little [[truth]] it takes to relate [[imaginati]]on with [[existen]]ce. the result is a [[crowd]] of [[image]]s and [[thing]]s -- linked to each [[other]], often yet [[void]], one day [[synth]]esized, [[collapse]]d the next one.
+
+a perverted **[[umm]]** technology use.

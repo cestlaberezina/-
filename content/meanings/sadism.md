@@ -1,1 +1,1 @@
-[[suppression]] [[control]] [[tyranny]] [[power]] [[masochism]] [[serve]] [[obey]] 
+[[suppression]] [[control]] [[tyranny]] [[power]] [[masochism]] [[serv]] [[obey]] 

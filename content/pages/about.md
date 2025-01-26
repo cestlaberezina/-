@@ -1,0 +1,9 @@
+pauline pelagia garbbha (b. january 5, 1994, pskov, russia) is a somatic photographer and a grief doula, currently in paris.
+
+![[https://static.tildacdn.com/tild3433-3630-4536-b866-653233623962/about.png]]
+
+her [[art]]istic ambition is to create [[space]]s for [[human]]s [[resonance]] with the [[nature]] inside and outside; in this [[pulsation]] [[between]] inner and outer [[world]]s is a [[potential]] of [[politic]]al [[act]]ion: [[become]]ing toward a deeply ecological [[existen]]ce, starting from the personal [[singularity]].
+
+unrehearsed and intuitive, her [[work]] doesn’t aim to resolve but to [[cataly]]ze — an [[adventure]], a [[dialogue]]. shaped by [[poor]] [[theatre]], [[somatics]], [[psychoanalysis]] and [[phenomen]]ology, pauline blooms in [[mess]]y, liminal dimensions where [[the imaginary]] & [[the real]] collide. 
+
+>i believe that [[war]] happens first and perpetually inside, fever is the body's way to [[pray]] and any [[word]] is a [[gesture]]. for me matters: [[question]]ing as an [[act]]ion, [[collapse]] at the end of the step, [[simplicity]] of tears, what turns [[grief]] into [[beauty]], when people move their feet to let me [[pass]] to my seat in the theater, [[wander]], [[reverie]], [[heart]], how to [[hold]] open the door in which i stand, how to [[fly]] underwater, intercellular [[space]], how to go on, [[worship]], how the [[space]] is [[fill]]ed with some kind of [[electricity]], how to [[walk]] in own unbought skin, how to [[resist]] the [[loss]] of [[wonder]], removal of [[distan]]ce, what to do when no one is to [[blame]], [[abode]]s, when something does not begin, [[nausea]].

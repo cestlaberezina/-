@@ -1,1 +1,1 @@
-[[catalyst]]
+[[cataly]]

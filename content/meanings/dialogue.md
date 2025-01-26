@@ -6,7 +6,7 @@
 - [[exchange]]
 - a [[shared]] [[space]]
 - [[cobeing]]
-- [[catalyst]]
+- [[cataly]]
 - [[the real]]
 - [[essence]]tial
 - [[internal]] as an option

@@ -3,5 +3,9 @@ a [[shared]] agreement, [[opaque]]
 - [[the symbolic]]
 - "pre-exists" to what is [[being]] translated [[implicit]] [[predetermined]]
 - [[signifier]]
+- [[meaning]]
 
->linguistic [[repression]] as a [[cause]] of pregnancy
+>linguistic [[repress]] as a [[cause]] of pregnancy
+
+>we are very [[tempt]]ed to claim that language itself is a [[myth]]ology without [[alive]] [[schelling]]
+>

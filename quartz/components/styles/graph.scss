@@ -10,7 +10,7 @@
     border-radius: 0px; //5px;
     border: 1px solid var(--lightgray);
     box-sizing: border-box;
-    height: 500px; //250px; antoine
+    height: 250px; //250px; antoine
     margin: 0; //0.5em 0; antoine
     position: relative;
     overflow: hidden;
@@ -19,8 +19,8 @@
       cursor: pointer;
       background: none;
       border: none;
-      color: var(--dark);
-      opacity: 0.5;
+      color: var(--tertiary);
+      opacity: 1;
       width: 24px;
       height: 24px;
       position: absolute;

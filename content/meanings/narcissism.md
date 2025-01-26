@@ -1,4 +1,4 @@
->andre green: [[life]] narcissism = how to live, how to conduct [[affair]]s, what decisions and choices to make. results in living that is restricted to [[illusion]]ry [[relationship]]s without [[genuine]] [[involve]]ment with [[other]]s. [[death]] narcissism = fuels cynicism, [[avoid]]ance, [[withdrawal]]. [[embody]]ies a culture of [[void]], [[self]]-contempt, permanent [[self-depreciation]] with a predominant [[masochism]]tic [[quality]]
+>andre green: [[life]] narcissism = how to live, how to conduct [[affair]]s, what decisions and choices to make. results in living that is restricted to [[illusion]]ry [[relationship]]s without [[genuine]] [[involve]]ment with [[other]]s. [[death]] narcissism = fuels cynicism, [[avoid]]ance, [[withdraw]]. [[embody]]ies a culture of [[void]], [[self]]-contempt, permanent [[self-depreciation]] with a predominant [[masochism]]tic [[quality]]
 
 >"you will be my [[mother]]. i will die for you. i will [[become]] one with you and you will gratify all my [[need]]s."
 

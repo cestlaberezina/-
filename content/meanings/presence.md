@@ -1,1 +1,1 @@
-[[being-for-itself]] [[existence]]
+[[being-for-itself]] [[existen]]

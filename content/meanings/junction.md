@@ -1,4 +1,4 @@
 - [[merge]]
 - [[flux]]
-- [[juxtaposition]]
+- [[juxtapos]]
 - 

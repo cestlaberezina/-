@@ -1,4 +1,4 @@
-is [[borderline]] as a [[phenomenon]]: [[junction]] of [[the imaginary]], [[the symbolic]], and [[the real]]. is a constant [[demand]] of [[work]] for the [[psyche]]ic apparatus [[freud]] = is an [[intensity]] that obliges the [[psyche]] – to [[avoid]] dis[[pleasure]] and [[helplessness]] – to [[work]] into finding a way to [[express]] this [[energy]] in the [[matter]]ial and psychic [[world]]. 
+is [[borderline]] as a [[phenomen]]: [[junction]] of [[the imaginary]], [[the symbolic]], and [[the real]]. is a constant [[demand]] of [[work]] for the [[psyche]]ic apparatus [[freud]] = is an [[intensity]] that obliges the [[psyche]] – to [[avoid]] dis[[pleasure]] and [[helplessness]] – to [[work]] into finding a way to [[express]] this [[energy]] in the [[matter]]ial and psychic [[world]]. 
 
 >establishing circuits for the drive through its registration on
 the psychic geography of the [[object]]s of [[satisfaction]], is at the

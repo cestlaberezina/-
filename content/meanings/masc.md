@@ -1,0 +1,5 @@
+>- the time of the masculine principle is subject to the [[dynamic]]sm of [[jerk]]s. daily life, [[social order]] activity, the need for [[dom]]inance, [[hierarchy]]. in the world of high [[solemn]]ity
+>- animus, that concerns and plans belong—two ways of [[absence]]t [[existen]] in oneself. 
+>- a man who [[love]]s a [[fem]] [[project]]s onto this woman everything that is [[idol]]ized in his own feminine principle. (and vice versa) when at least one of these projections is [[disappoint]]ed in [[reality]], the [[drama]]s of a [[fail]]ed [[life]] begin. [[reverie]] always gives us the opportunity to [[withdraw]] ourselves from marital dramas. [[bachelard]]
+
+>The Animus is a bourgeois of established habits; he likes to be served the same dishes. But... one day, when the Animus suddenly returns home unexpectedly, or perhaps begins to doze after dinner, or perhaps while he is completely absorbed in his work, he suddenly hears the Anima, who, alone behind a closed door, sings some amazing song. Something that he did not know before." [[claudel]]

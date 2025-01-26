@@ -1,5 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import Breadcrumbs from "./quartz/components/Breadcrumbs";  // No need for relative path
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -8,18 +9,12 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      THIS: "https://garbbha.github.io/quartz/1pages/this",
-      THAT: "https://garbbha.github.io/quartz/1pages/that",
-      THIP: "https://garbbha.github.io/quartz/1pages/this",
-      THAI: "https://garbbha.github.io/quartz/1pages/that",
-      THIR: "https://garbbha.github.io/quartz/1pages/this",
-      THAY: "https://garbbha.github.io/quartz/1pages/that",
-      THIE: "https://garbbha.github.io/quartz/1pages/this",
-      THAD: "https://garbbha.github.io/quartz/1pages/that",
-      THAW: "https://garbbha.github.io/quartz/1pages/that",
-      THAH: "https://garbbha.github.io/quartz/1pages/that",
-      THAQ: "https://garbbha.github.io/quartz/1pages/that",
-      THAZ: "https://garbbha.github.io/quartz/1pages/that",
+      HOME: "https://garbbha.github.io",
+      ABOUT: "https://garbbha.github.io/quartz/pages/about",
+      PHOTOGRAPHY: "https://garbbha.github.io/quartz/pages/photography",
+      GRIEFWORK: "https://garbbha.github.io/quartz/pages/griefwork",
+      ARCHIVE: "https://garbbha.github.io/quartz/pages/archive",
+      CONTACT: "https://garbbha.github.io/quartz/pages/contact",
     },
   }),
   left: [],
@@ -28,8 +23,7 @@ export const sharedPageComponents: SharedLayout = {
 
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
-  beforeBody: [
-    Component.Breadcrumbs(),
+  beforeBody:[ // [Component.Breadcrumbs(),
     Component.ArticleTitle(),
     Component.TagList(),
   ],
@@ -43,7 +37,7 @@ export const defaultContentPageLayout: PageLayout = {
         repelForce: 1, // how much nodes should repel each other antoine
         centerForce: 0.3, // how much force to use when trying to center the nodes
         linkDistance: 10, // how long should the links be by default? antoine
-        fontSize: 0.6, // what size should the node labels be?
+        fontSize: 1, // what size should the node labels be?
         opacityScale: 0.5, // how quickly do we fade out the labels when zooming out?
         removeTags: [], // what tags to remove from the graph
         showTags: true, // whether to show tags in the graph
@@ -61,11 +55,11 @@ export const defaultContentPageLayout: PageLayout = {
         removeTags: [], // what tags to remove from the graph
         showTags: true, // whether to show tags in the graph
       },
-  }),
+    }),
   ],
 }
 
-// components for pages that display lists of pages  (e.g. tags or folders)
+// components for pages that display lists of pages (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [],
 }

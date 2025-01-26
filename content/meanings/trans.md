@@ -3,4 +3,4 @@ transmedial
 trans[[limit]]an
 [[deterritorialization]]
 
-[[circus]] [[orgasm]] [[ecstasy]] 
+[[circus]] [[orgasm]] [[exaltation]] 
