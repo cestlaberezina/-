@@ -31,28 +31,27 @@ export const defaultContentPageLayout: PageLayout = {
   afterBody: [
     Component.Graph({
       localGraph: {
-        drag: true, // whether to allow panning the view around
+        drag: false,//true, // whether to allow panning the view around
         zoom: true, // whether to allow zooming in and out
-        depth: 1, // how many hops of notes to display
-        scale: 1, // default view scale antoine
-        repelForce: 0.5, // how much nodes should repel each other antoine
-        centerForce: 0.3, // how much force to use when trying to center the nodes
-        linkDistance: 30, // how long should the links be by default? antoine
-        fontSize: 0.6, // what size should the node labels be?
-        opacityScale: 1, // how quickly do we fade out the labels when zooming out?
+        depth: 2, // how many hops of notes to display
+        scale: 1, // default view scale
+        repelForce: 2, // how much nodes should repel each other
+        centerForce: 0.1, // how much force to use when trying to center the nodes
+        linkDistance: 10, // how long should the links be by default?
+        fontSize: 2, // what size should the node labels be?
+        opacityScale: 3, // how quickly do we fade out the labels when zooming out?
         removeTags: [], // what tags to remove from the graph
         showTags: true, // whether to show tags in the graph
-        focusOnHover: true,
       },
       globalGraph: {
-        drag: true,
+        drag: false,
         zoom: true,
-        depth: -1,
-        scale: 1, //antoine
-        repelForce: 0.3, //antoine
-        centerForce: 1, //antoine
+        depth: 2,
+        scale: 1, 
+        repelForce: 0.5,
+        centerForce: 0.3,
         linkDistance: 30,
-        fontSize: 0.6,
+        fontSize: 2,
         opacityScale: 1,
         removeTags: [], // what tags to remove from the graph
         showTags: true, // whether to show tags in the graph

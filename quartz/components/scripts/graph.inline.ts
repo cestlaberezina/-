@@ -114,7 +114,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
         .filter((tag) => !removeTags.includes(tag))
         .map((tag) => simplifySlug(("tags/" + tag) as FullSlug))
 
-      tags.push(...localTags.filter((tag) => !tags.includes(tag)))
+      tags.push(...localTags.filter((tag) => !tags.includes(tag))) //!tags.includes(tag)))
 
       for (const tag of localTags) {
         links.push({ source: source, target: tag })
@@ -503,7 +503,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
           stage.scale.set(transform.k, transform.k)
           stage.position.set(transform.x, transform.y)
 
-          // zoom adjusts opacity of labels too
+          //zoom adjusts opacity of labels too
           const scale = transform.k * opacityScale
           let scaleOpacity = Math.max((scale - 1) / 3.75, 0)
           const activeNodes = nodeRenderData.filter((n) => n.active).flatMap((n) => n.label)
