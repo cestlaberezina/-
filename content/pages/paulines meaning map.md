@@ -1,6 +1,0 @@
-###### JKEHFEBFKJBWEKJRJEDKJNSAN FNS DHFBEWHJKBGKJNGJKFEDN VSND 
-###### ![[https://static.tildacdn.com/tild3865-3964-4864-a438-326263613633/Untitled-1.png]] 
-
-
-
-

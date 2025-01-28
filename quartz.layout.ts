@@ -15,6 +15,7 @@ export const sharedPageComponents: SharedLayout = {
       GRIEFWORK: "https://garbbha.github.io/quartz/pages/griefwork",
       ARCHIVE: "https://garbbha.github.io/quartz/pages/archive",
       CONTACT: "https://garbbha.github.io/quartz/pages/contact",
+      UPD0125: "https://"
     },
   }),
   left: [],
