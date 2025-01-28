@@ -70,11 +70,15 @@ ul,
 }
 
 strong {
-  font-weight: $semiBoldWeight;
+  font-weight: 100;
+}
+
+p {
+  font-weight: 100;
 }
 
 a {
-  font-weight: 2;//$semiBoldWeight;
+  font-weight: 100; //$semiBoldWeight;
   text-decoration: none;
   transition: color 0.2s ease;
   color: var(--secondary);
@@ -190,7 +194,7 @@ a {
       box-sizing: border-box;
       padding: $topSpacing 2rem 2rem 2rem;
       display: flex;
-      height: 100vh;
+      height: 0;//1vh;
       position: sticky;
     }
 
@@ -327,7 +331,7 @@ h6,
 thead {
   font-family: var(--headerFont);
   color: var(--dark);
-  font-weight: revert;
+  font-weight: 100; //revert antoine
   margin-bottom: 0;
 
   article > & > a[role="anchor"] {
