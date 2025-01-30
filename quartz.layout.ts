@@ -14,8 +14,8 @@ export const sharedPageComponents: SharedLayout = {
       PHOTOGRAPHY: "https://garbbha.github.io/-/photography",
       GRIEFWORK: "https://garbbha.github.io/-/griefwork",
       ARCHIVE: "https://garbbha.github.io/-/archive",
-      CONTACT: "https://garbbha.github.io/-/contact",
-      "UPD:01.25": "https://"
+      CONTACT: "https://garbbha.github.io/-/contacts",
+      "upd 01.25": "https://garbbha.github.io/-/upd"
     },
   }),
   left: [],

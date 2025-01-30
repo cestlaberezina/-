@@ -25,7 +25,7 @@
 [[stasis]] [[dynamic]]
 [[embody]] [[touch]]
 [[serv]] [[search]] [[question]] [[proaction]] [[approach]] 
-[[situation]] [[moment]] [[metabolism]] [[metamorphosis]] [[complementarity]] [[matter]] [[love]] [[limit]] [[isolation]] [[intuition]] [[intensity]] [[intervention]] [[influence]] [[impact]] [[in-depth]] [[involve]] [[i-thou]] [[human]] [[hunger]] [[helplessness]] [[grasp]] [[genuine]] [[frustration]] [[freeze]] [[freedom]] [[flux]] [[fill]] [[field]] [[environment]] [[essence]] [[epiphany]] [[emerge]] [[drive]] [[dissociation]][[direct]] [[differentiation]] [[dialogue]] [[mediate]] [[devotion]] [[dependence]] [[depression]] [[deep ecology]] [[control]] [[content/meanings/contact]] [[conflict]] [[commitment]] [[coherent]] [[cataly]] [[capacity]] [[bound]] [[voice]] [[avoid]] [[between]] [[bliss]] [[blind]] [[being]]
+[[situation]] [[moment]] [[metabolism]] [[metamorphosis]] [[complementarity]] [[matter]] [[love]] [[limit]] [[isolation]] [[intuition]] [[intensity]] [[intervention]] [[influence]] [[impact]] [[in-depth]] [[involve]] [[i-thou]] [[human]] [[hunger]] [[helplessness]] [[grasp]] [[genuine]] [[frustration]] [[freeze]] [[freedom]] [[flux]] [[fill]] [[field]] [[environment]] [[essence]] [[epiphany]] [[emerge]] [[drive]] [[dissociation]][[direct]] [[differentiation]] [[dialogue]] [[mediate]] [[devotion]] [[dependence]] [[depression]] [[deep ecology]] [[control]] [[contact]] [[conflict]] [[commitment]] [[coherent]] [[cataly]] [[capacity]] [[bound]] [[voice]] [[avoid]] [[between]] [[bliss]] [[blind]] [[being]]
 [[separate]] [[merge]] 
 [[saturated]] [[dense]]
 [[potential]] [[fertile]] [[power]] [[empower]] [[force]] [[polarity]]

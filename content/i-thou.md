@@ -2,7 +2,7 @@
 
 - one encounters an[[other]] [[being]] in a [[direct]], [[mutual]] [[manner]]
 - [[presence]]
-- [[content/meanings/contact]]
+- [[contact]]
 - [[trans]]cends [[object]]ification and [[instrument]]alization
 - [[human]] [[interaction]], [[nature]] and the [[divine]]
 - a [[thing]] can be [[moment]]arily part of an i-thou encounter if it is [[approach]]ed with openness, [[presence]], and without [[instrument]]al [[intent]]
