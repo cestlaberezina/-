@@ -70,15 +70,15 @@ ul,
 }
 
 strong {
-  font-weight: 100;
+  font-weight: 300;
 }
 
 p {
-  font-weight: 100;
+  font-weight: 300;
 }
 
 a {
-  font-weight: 100; //$semiBoldWeight;
+  font-weight: 300; //$semiBoldWeight;
   text-decoration: none;
   transition: color 0.2s ease;
   color: var(--secondary);
@@ -194,7 +194,7 @@ a {
       box-sizing: border-box;
       padding: $topSpacing 2rem 2rem 2rem;
       display: flex;
-      height: 0;//1vh;
+      height: 1vh;
       position: sticky;
     }
 
