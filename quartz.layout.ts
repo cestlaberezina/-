@@ -32,7 +32,7 @@ export const defaultContentPageLayout: PageLayout = {
   afterBody: [
     Component.Graph({
       localGraph: {
-        drag: true, // whether to allow panning the view around
+        drag: false, // whether to allow panning the view around
         zoom: true, // whether to allow zooming in and out
         depth: 1, // how many hops of notes to display
         scale: 1, // default view scale
