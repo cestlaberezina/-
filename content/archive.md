@@ -1,4 +1,4 @@
-archives are in the process of relocation to the current website. meanwhile, they are accessible through the old one:
+archives are in the process of relocation to the current website. meanwhile, they are accessible through the old one: last upd december 2023
 
 - [movement](http://garbbha.tilda.ws/movement)
 - [exhibitions](http://garbbha.tilda.ws/exhibitions)

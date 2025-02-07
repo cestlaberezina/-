@@ -1,8 +1,8 @@
-pauline pelagia garbbha (b. 1994, pskov, russia) is a somatic photographer and a grief doula, currently in paris.
+pauline pelagia garbbha (b. 1994, pskov, russia) is a somatic photographer and a grief doula, in exile since 2020, currently in paris.
 
 ![[https://static.tildacdn.com/tild3433-3630-4536-b866-653233623962/about.png]]
 
-her [[art]]istic ambition is to create [[space]]s for [[resonance]] with the [[nature]] inside and outside. in this [[pulsation]] [[between]] inner and outer [[world]]s is a [[potential]] of [[politic]]al [[act]]ion: [[become]]ing toward a deeply ecological [[existen]]ce, starting from the [[human]]s [[singularity]].
+her [[art]]istic ambition is to create [[space]]s for [[resonance]] with the [[nature]] inside and outside. in this [[pulsation]] [[between]] inner and outer [[world]]s she sees a [[potential]] of [[politic]]al [[act]]ion: [[become]]ing toward a deeply ecological [[existen]]ce.
 
 unrehearsed and intuitive, her [[work]] doesn’t aim to resolve but to [[cataly]]ze — an [[adventure]], a [[dialogue]]. shaped by [[poor]] [[theatre]], [[somatics]], [[psychoanalysis]] and [[phenomen]]ology, pauline works in [[mess]]y, liminal dimensions where [[the imaginary]] & [[the real]] collide. 
 
