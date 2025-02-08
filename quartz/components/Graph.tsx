@@ -38,7 +38,7 @@ const defaultOptions: GraphOptions = {
     opacityScale: 1,
     showTags: true,
     removeTags: [],
-    focusOnHover: true,
+    focusOnHover: false,
   },
   globalGraph: {
     drag: true,
