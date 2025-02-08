@@ -330,7 +330,6 @@ h5,
 h6,
 thead {
   font-family: var(--headerFont);
-  color: var(--darkgray);
   font-weight: 100; //revert antoine
   margin-bottom: 0;
 
@@ -352,7 +351,6 @@ h6 {
     transition: opacity 0.2s ease;
     transform: translateY(-0.1rem);
     font-family: var(--codeFont);
-    color: var(--darkgray);
     user-select: none;
   }
 
