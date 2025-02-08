@@ -9,12 +9,12 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      HOME: "https://garbbha.github.io/-/",
-      ABOUT: "https://garbbha.github.io/-/about",
-      PHOTOGRAPHY: "https://garbbha.github.io/-/photography",
-      GRIEFWORK: "https://garbbha.github.io/-/griefwork",
-      ARCHIVE: "https://garbbha.github.io/-/archive",
-      CONTACT: "https://garbbha.github.io/-/contacts",
+      home: "https://garbbha.github.io/-/",
+      about: "https://garbbha.github.io/-/about",
+      photography: "https://garbbha.github.io/-/photography",
+      griefwork: "https://garbbha.github.io/-/griefwork",
+      archive: "https://garbbha.github.io/-/archive",
+      contact: "https://garbbha.github.io/-/contacts",
       "upd 01.25": "https://garbbha.github.io/-/upd",
     },
   }),
