@@ -1,1 +1,1 @@
-[[deviant]] to [[norms]] of [[social order]]
+[[deviant]] to [[norms]] of [[social]]

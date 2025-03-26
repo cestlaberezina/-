@@ -1,5 +1,5 @@
 [[nature]]al [[reverie]] [[bachelard]]
-the [[work]] of desocializing ([[social order]]) [[mundane]] [[language]]
+the [[work]] of desocializing ([[social]]) [[mundane]] [[language]]
 poetics of [[reverie]] must give [[flesh]] ([[embody]]) an any [[ideal]]ized dreams
 >the function of the [[unreal]] finds its worthy application in consistent [[ideal]]ization, in an idealized [[life]] that [[preserve]]s [[warm]]th in the [[heart]], in an idealization **that gives life [[real]] [[dynamic]]sm**
 
@@ -22,6 +22,6 @@ poetic [[act]]ion is a [[real]]ization
 
 >the psychology of deep-seated impulses [[psychoanalysis]] should not overload the psychology of man in his immediate and [[moment]]ary manifestation, man [[real]]izing himself in his [[speech]], living in his speech. whatever the distant origins of poetic dreams, they are born from the living energy of [[language]]
 
->to [[rest]] in the very [[heart]] of the **[[word]]**, to [[penetrate]] into the very [[core]], the [[cell]] of the word, to feel that the word is the grain of [[life]], that it is the dawn that is breaking [[practice]]
+>to [[rest]] in the very [[heart]] of the **[[word]]**, to [[penetrat]] into the very [[core]], the [[cell]] of the word, to feel that the word is the grain of [[life]], that it is the dawn that is breaking [[practice]]
 
 >[[listen]]ing to some [[word]]s, like a [[child]] listening to the [[sea]], putting his [[ear]] to the [[shell]]

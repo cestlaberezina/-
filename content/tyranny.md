@@ -1,1 +1,5 @@
 [[control]] [[power]] [[territorialization]] [[language]] [[politic]] [[discourse]] 
+
+>“one of sade’s cruellest lessons is that tyranny is implicit in all [[privilege]]. my [[freedom]] makes you more unfree, if it does not acknowledge your freedom, also.” carter
+
+>“the more they seek gratification, the more empty, repetitive and tortuous their world becomes. the problem with creating hell is that you have to live there, too.” “total liberty to [[act]] can and does have hellish consequences for the [[body]]ies unlucky enough to be acted upon. absolute freedom, sade warns, is closer to auschwitz than eden. [[sex]] is not just about [[pleasure]], [[connect]]ion, [[intimacy]] or [[trans]]cendental [[joy]]. it’s an act that has multiple different [[intent]]ions and imperatives, among them to hurt, to subdue, to humiliate, to punish, even to destroy.” [[laing]] of sade

@@ -1,2 +1,2 @@
-the landscape dominates over the [[ugly]]ness and transience of [[social order]]
+the landscape dominates over the [[ugly]]ness and transience of [[social]]
 >what [[value]] would those landscapes acquire in our eyes in that case, which would pose [[question]]s to our [[lonesome]], and would reveal to us the world in which we would [[need]] to live in order to find ourselves! [[bachelard]]

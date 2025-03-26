@@ -1,3 +1,3 @@
-kind of [[social order]], [[tyranny]] of the [[ego]] (which [[lacan]] evaluates as a “mad [[agency]]”) fascism, which seeks to pass off as a right to [[freedom]] any [[whim]] that is on the [[other]] side of [[desire]], is a manifestation of decline
+kind of [[social]], [[tyranny]] of the [[ego]] (which [[lacan]] evaluates as a “mad [[agency]]”) [[fascism]], which seeks to pass off as a right to [[freedom]] any [[whim]] that is on the [[other]] side of [[desire]], is a manifestation of decline
  
 >only certain specific [[cliche]]s are recognized, there arises a dis[[trust]] of [[metaphor]], it is banished as something [[danger]]ous, strive to eradicate the [[ambiguity]] of [[language]], and instead [[code]]s with [[stable]] and [[predetermined]] [[meaning]]s are [[use]]d, as in the [[system]] of [[sign]]s used by [[animal]]s ([[hochman]])

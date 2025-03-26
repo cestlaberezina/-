@@ -1,0 +1,1 @@
+>“you wanted [[thing]]s to [[change]], but how? how could you communicate your [[distress]], your [[fear]], your [[refus]]al to participate in a society ([[social psychosis]] that so readily facilitated your destruction?” [[laing]]

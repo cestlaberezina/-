@@ -1,1 +1,1 @@
-[[delirium]]
+[[delir]]

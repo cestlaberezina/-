@@ -1,5 +1,5 @@
 a state of being, daydreaming, [[poetry]], as opposed to [[psychoanalysis]] [[traumarbeit]]
-**they lead us into the [[world]], not into [[social order]]**
+**they lead us into the [[world]], not into [[social]]**
 sacralizes its [[object]] -- "from the familiar and [[beloved]] to the [[sacred]] and [[intimacy]] is one step
 
 [[bachelard]]

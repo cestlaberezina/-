@@ -1,1 +1,1 @@
->inter-legere = read [[between]] the lines. thus, intelligence is the operation of [[invention]] vely [[reconstruction]] the [[implicit]] parts of the [[text]], such as those that are in the intervals [[between]] what is said [[hochman]]
+>inter-legere = read [[between]] the lines. thus, intelligence is the operation of [[invent]] vely [[reconstruction]] the [[implicit]] parts of the [[text]], such as those that are in the intervals [[between]] what is said [[hochman]]

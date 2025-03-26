@@ -1,1 +1,1 @@
-[[isolation]] [[burial]] [[grave]] [[sacred]] [[delirium]] 
+[[isolation]] [[burial]] [[grave]] [[sacred]] [[delir]] 

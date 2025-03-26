@@ -21,7 +21,7 @@
 [[place]]
 [[play]]
 [[pleasure]] [[satisfaction]] [[pulsation]] [[sex]] [[self]]
-[[penetrate]] [[embrace]]
+[[penetrat]] [[embrace]]
 [[stasis]] [[dynamic]]
 [[embody]] [[touch]]
 [[serv]] [[search]] [[question]] [[proaction]] [[approach]] 

@@ -12,3 +12,5 @@ personally, its also an attempt to [[access]] the [[memory]] that i dont have mu
 >[[dare]] to say what “apple” truly is ... mädchen, ihr warmen, mädchen, ihr stummen,
 tanzt den geschmack der erfahrenen frucht!
 >rilke
+
+>we realize that we are not building on empty space, after all, we breathed some air [[grotowski]]

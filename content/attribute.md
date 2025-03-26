@@ -1,1 +1,1 @@
-a characteristic or inherent part
+a characteristic or inherent part, paraphernalia
