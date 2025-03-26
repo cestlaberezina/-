@@ -1,4 +1,4 @@
-pauline pelagia garbbha (b. 1994, pskov, russia) is a somatic photographer and a grief doula, in exile since 2020, currently in paris.
+pauline pelagia berezina, formerly known as pauline garbbha (b. 1994, pskov, russia) is a somatic photographer and a grief doula, in exile since 2020, currently in paris.
 
 ![[https://static.tildacdn.com/tild3433-3630-4536-b866-653233623962/about.png]]
 
