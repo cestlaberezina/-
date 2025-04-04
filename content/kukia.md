@@ -1,4 +1,5 @@
 ![[https://static.tildacdn.com/tild3938-3935-4464-b033-633834303437/kukia.png]]
+
 in june 2022, pauline acquired a [[modest]], aging house from a [[friend]] — an [[abandon]]ed [[space]] brimming with [[potential]] yet in [[need]] of significant [[work]]. what [[follow]]ed was a five-month [[transformation]], blending [[practic]]al construction with artistic [[vision]]. with a limited budget and the help of friends and workers, the artist set out to reconstruct the house, turning it into a livable, [[dynamic]] space. this endeavor wasn’t just about making a house [[function]]al — it was an act of creation, a reimagining of what a [[home]] could be.
 
 the process began with [[concept]]ualizing the space: what could be preserved, and what needed to be reimagined entirely? the artist [[focus]]ed on the [[structure]]al integrity of the building while ensuring each detail aligned with a personal aesthetic vision. a skylight was carved out to [[flood]] the space with [[natur]]al [[light]], while the old roof was carefully [[repair]]ed to [[exten]]d the house’s lifespan. walls were built, others destroyed, and the flooring was cleaned from [[layer]]s of [[plast]]ic.

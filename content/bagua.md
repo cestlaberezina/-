@@ -1,4 +1,5 @@
 ![[https://static.tildacdn.com/tild6362-6538-4562-a361-636666623961/bagua.png]]
+
 in [[tao]]ist [[cosm]]ology, the eight trigrams represent the [[fundament]]al [[principl]]es of [[real]]ity — each a [[simpl]]e arrangement of broken and unbroken lines, [[embod]]ying [[yin]] and [[yang]], [[presence]] and [[absence]], 0 and 1. this binary [[system]] forms the foundation of the [[i-ching]], a text pauline has been studying since 2017.
 
 these [[micro]] [[sculpt]]ures [[captur]]e the [[mesmeriz]]ing [[space]] [[between]] [[raw]] reality and the [[structure]]d [[philosoph]]y of [[divin]]ation. each piece, made entirely by [[hand]] without tools, carries the [[essence]] of [[touch]] — an [[intim]]ate [[connect]]ion to [[material]] and [[meaning]].

@@ -1,5 +1,6 @@
 ![[https://youtu.be/NpxVSbKhM4s?si=YEXxJPtvajK5vkBj]]
 ![[https://youtu.be/VzdA1STNeKw?si=5X4qNjbZTrFIuoOg]]
+
 [[tbilisi]], 24.12–30.12.2021  
 works & curation: pauline pelagia berezina; sound: tete noise; opening sound: santebela; space: eleven window
 

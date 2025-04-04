@@ -1,4 +1,5 @@
 ![[https://static.tildacdn.com/tild6638-6661-4264-b233-333464353366/cirque.png]]
+
 some places [[exist]] only in the in-[[between]] — between [[concept]] and [[real]]ity, between [[cultur]]es, [[medium]]s, and [[idea]]s. [[cirque]], a food pop-up in tbilisi, was one such [[flee]]ting [[space]], [[offer]]ing a taste of a bar that never fully [[material]]ized.
 
 the project was [[root]]ed in [[movement]], [[trans]]ition, and [[fluid]]ity. it [[embrace]]d the [[interplay]] of opposites: [[balance]] and [[chaos]], [[ritual]] and [[play]], permanence and impermanence. inspired by the [[aesthetics]] and [[philosoph]]y of circus, the [[sacred]], and the [[nomad]]ic, it sought to create an [[environment]] where worlds collided and transformed.

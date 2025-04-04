@@ -1,4 +1,5 @@
 ![[https://static.tildacdn.com/tild3330-3336-4238-a665-626339363039/uplistsikhe.png]]
+
 uplistsikhe, an ancient [[cave]] town near gori, [[hold]]s the remnants of architectural and [[cult]] [[structure]]s that have withstood thousands of years. within this [[landscape]], the [[interplay]] of [[void]]s in the cave buildings is striking — some voids are at the very [[bottom]], while the entire upper structure [[rest]]s upon them.
 
 the artist is drawn to the [[complex]]ity of these internal voids, the biological [[rhythm]] [[embed]]ded in the [[space]], and the [[balance]] [[between]] the scope and [[essence]] of this [[place]]. the [[vessel]] created [[reflect]]s this deep [[connect]]ion to the [[land]] and history, crafted from [[local]] red [[clay]] and [[wild]] clay, shaped with engobes and [[glaz]]es. fired at 1050℃, the work [[captur]]es the [[spirit]] of uplistsikhe’s architecture—where ancient history, [[natur]]al [[forc]]es, and [[human]] intervention converge.

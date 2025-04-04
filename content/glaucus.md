@@ -1,4 +1,5 @@
 ![[https://static.tildacdn.com/tild6130-3962-4933-a130-626663363936/glaucus.png]]
+
 in greek [[myth]]ology, glaucus, the mortal-turned-[[sea]]-[[god]], was forever [[change]]d by the [[act]] of [[consum]]ing a [[magic]]al [[herb]]. his [[transformation]] — both physical and [[exist]]ential — [[mirror]]s the ir[[revers]]ible [[impact]] of [[art]]istic [[commitment]]. this ceramic series, created just before pauline's pivotal [[break]] from studio work in august 2021, explores that [[metamorphosis]].
 
 years of working with [[clay]], and [[powder]]s leave their mark — not only on the pieces but on the artist's [[bodymind]]. the [[tactil]]e [[process]] alters [[movement]], [[sensation]], and [[perception]], [[echo]]ing glaucus’s [[fate]]. at times, [[hand]]s [[feel]] like [[fin]]s, [[thought]]s [[dissol]]ve like [[wet]] clay.

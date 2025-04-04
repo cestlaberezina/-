@@ -1,4 +1,5 @@
 ![[https://static.tildacdn.com/tild6661-6531-4463-b431-636239323531/brili.png]]
+
 for this series, pauline worked with [[raw]], un[[process]]ed red [[clay]] from an upper ajaran village, [[source]]d with the [[help]] of [[loc]]als. [[work]]ing with the [[matter]]ial in its [[natur]]al state, she [[explor]]ed [[simpl]]e forms and [[prim]]itive techniques, [[allow]]ing the clay to [[guid]]e the [[process]]. the pieces were [[fir]]ed without [[certain]]ty of their [[surviv]]al, [[embrac]]ing the un[[predict]]ability of high temperatures.
 
 to [[exten]]d the exploration, pauline created a [[white]] [[glaz]]e from the same clay [[fragment]]s, thick enough to apply it by [[hand]] rather than with a brush. after a second firing, the works retained the rawness of their [[origin]]s while taking on a new form.
