@@ -4,3 +4,5 @@ uplistsikhe, an ancient [[cave]] town near gori, [[hold]]s the remnants of archi
 the artist is drawn to the [[complex]]ity of these internal voids, the biological [[rhythm]] [[embed]]ded in the [[space]], and the [[balance]] [[between]] the scope and [[essence]] of this [[place]]. the [[vessel]] created [[reflect]]s this deep [[connect]]ion to the [[land]] and history, crafted from [[local]] red [[clay]] and [[wild]] clay, shaped with engobes and [[glaz]]es. fired at 1050℃, the work [[captur]]es the [[spirit]] of uplistsikhe’s architecture—where ancient history, [[natur]]al [[forc]]es, and [[human]] intervention converge.
 
 exhibited: [[earthern]], international fair of architecture at cersaie 2022 (italgraniti)
+
+#archive

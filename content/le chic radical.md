@@ -4,3 +4,5 @@ this collection, created for the georgian jewelry brand run by nina ivanova and 
 the artist’s approach [[embrac]]es the unpredictability of pigments and [[natur]]al clay reactions, [[allow]]ing [[chance]] to [[shape]] the final result. these [[sculpt]]ural yet [[utilit]]arian forms carry the [[imprint]] of [[fir]]e, [[press]]ure, and [[instinct]] — [[trace]]s of creation [[embed]]ded in their [[weather]]ed surfaces.
 
 [[situat]]ed at the intersection of [[function]]al design and [[concept]]ual sculpture, this collection [[challeng]]es the [[idea]] of [[perfect]]ion in craft. rather than [[polish]]ed re[[fine]]ment, it presents ceramics as artifacts of process, where destruction and reconstruction co[[exist]].
+
+#archive

@@ -8,3 +8,5 @@ the result is a space that [[breath]]es — where moss thrives. the interaction 
 concrete fixtures, including a [[sculpt]]ed bathtub, kitchen table, and anatomical toilet, were shaped by necessity — designed to align with both aesthetics and function. inspired by the overgrown, aging structures of the st. [[petersburg]] botanical garden, the goal was to preserve the house’s history while allowing it to evolve naturally.
 
 as after that more tbilisi art residents experiment with moss integration, it raises a [[question]]: is nature reclaiming space in our minds as much as in our [[place]]s?
+
+#archive

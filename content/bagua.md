@@ -4,3 +4,5 @@ in [[tao]]ist [[cosm]]ology, the eight trigrams represent the [[fundament]]al [[
 these [[micro]] [[sculpt]]ures [[captur]]e the [[mesmeriz]]ing [[space]] [[between]] [[raw]] reality and the [[structure]]d [[philosoph]]y of [[divin]]ation. each piece, made entirely by [[hand]] without tools, carries the [[essence]] of [[touch]] — an [[intim]]ate [[connect]]ion to [[material]] and [[meaning]].
 
 crafted from [[white]] [[local]] chamotte [[clay]] and finished with a [[tradition]]al [[milk]]ing technique, the forms [[remain]] [[min]]imal yet [[charge]]d with [[symbol]]ic [[depth]]. a [[small]] [[hole]] [[trans]]forms them into [[ritual]] objects for [[incense]] [[offer]]ings, rein[[forc]]ing their [[spirit]]ual [[purpos]]e. fired at 1050°c, each 3-5 cm piece is a [[quiet]] [[embod]]iment of both the tangible and the un[[seen]].
+
+#archive

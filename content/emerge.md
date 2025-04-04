@@ -5,3 +5,5 @@ the artist, sensitive to hope and despair, in[[habit]]s this space in between. t
 on this particular solstice morning, pauline rose before [[dawn]], [[step]]ping out of the [[mountain]] house where she had been living that winter. despite the [[absence]] of [[snow]] in the beginning, later a first snowflake fell and the [[landscape]] became a canvas. the solstice, a time of renewal and reflection, [[invit]]es us to [[pause]] and [[observ]]e the quiet [[mirac]]les that [[exist]] around us. 
 
 exhibited at [[obscure]]
+
+#archive 

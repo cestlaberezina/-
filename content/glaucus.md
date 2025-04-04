@@ -4,3 +4,5 @@ in greek [[myth]]ology, glaucus, the mortal-turned-[[sea]]-[[god]], was forever 
 years of working with [[clay]], and [[powder]]s leave their mark — not only on the pieces but on the artist's [[bodymind]]. the [[tactil]]e [[process]] alters [[movement]], [[sensation]], and [[perception]], [[echo]]ing glaucus’s [[fate]]. at times, [[hand]]s [[feel]] like [[fin]]s, [[thought]]s [[dissol]]ve like [[wet]] clay.
 
 two [[vessel]]s, made from chamotte clay, pigments, and glazes, [[embod]]y this [[shift]]. fired at 1050°c, they [[hold]] within them both [[matter]]ial history and the [[weight]] of transformation — [[solid]] yet [[fluid]], [[structure]]d yet [[organ]]ic.
+
+#archive

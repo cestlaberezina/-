@@ -6,3 +6,5 @@ for the artist, clay is not simply a [[medium]], but a [[body]] in itself. the [
 this conversation between the artist and the material raises questions about [[presence]] and [[absence]], touch and [[perception]], and the [[boundar]]ies of physical interaction. the resulting sculptures are not simply [[object]]s but embody the exchange, the tension, and the quiet [[surrender]] to the material’s own [[agency]].
 
 two sculptures, unprocessed brili clay, glaze, fired at 1050℃. exhibited at [[earthern]]
+
+#archive

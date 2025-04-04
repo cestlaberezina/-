@@ -10,3 +10,5 @@ the exhibition included:
 - a clay-on-canvas piece as a result of the happening
 
 displayed works: [[brili]], [[rv sculpture]], [[rv happening]], [[uplistsikhe]], [[idbfm]], [[imiom]], [[palpation]]. additionally, the exhibition presented a guest work: a documentary on namakhvani by marina kaganova and leo descristoforo.
+
+#archive 

@@ -4,3 +4,5 @@ this series is [[shape]]d by a [[journey]] — both physical and [[concept]]ual 
 born in [[pskov]], the artist sought to re[[connect]] with [[place]] [[through]] [[material]], [[ask]]ing a [[friend]] from the skvoshino community to un[[earth]] clay from the [[land]]. another member of the community [[share]]d the [[process]] of preparing and [[fir]]ing [[wild]] clay, [[offer]]ing both [[guid]]ance and [[access]] to a [[kiln]].
 
 [[root]]ed in [[prim]]al techniques, the series [[reflect]]s an [[intuit]]ive approach to clay — [[tradition]]al [[milk]]ing [[method]]s [[meet]] the [[organ]]ic un[[predict]]ability of [[raw]] [[material]], [[shape]]d into [[bowl]]s for [[tea]] [[ceremon]]y. this was the artist’s first series, and it made clear that the [[path]] would [[follow]] [[wild]] clay, deep re[[search]], and the unre[[fine]]d [[beauty]] of ancient [[process]]es.
+
+#archive

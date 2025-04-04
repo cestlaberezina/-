@@ -8,3 +8,5 @@ on a practical level, cirque [[function]]ed as a temporary food corner, [[serv]]
 though the full bar never opened, cirque left an [[imprint]], not as a [[fail]]ed project but as an [[echo]] of what could be. a reminder that some ideas, like certain flavors, are meant to be savored in passing, never fully contained.
 
 loc: [[soupculture ecological set up]], big thanks to gio gvazava
+
+#archive 

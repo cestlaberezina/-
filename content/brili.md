@@ -8,3 +8,5 @@ drawn to georgian [[natur]]e since 2019, the pauline re[[loc]]ted there in march
 central to paulines [[practic]]e is the [[belief]] that an artwork is never truly complete — it requires [[context]] and the [[presence]] of a [[viewer]] to become [[real]]. this [[philosoph]]y led to the choice of the [[vessel]] form, leaving an [[intent]]ional empty [[space]] inside. the [[hollow]]s [[exist]] as [[void]]s, shaping the work [[through]] [[absence]].
 
 five vessels, unprocessed brili clay, glaze, fired at 1050℃. exhibited at [[earthern]]
+
+#archive 

@@ -12,3 +12,5 @@ a key element of the renovation was the installation of a wood-[[burn]]ing stove
 the project was executed with a minimalist approach, and the budget remained remarkably low, thanks to the use of reclaimed materials. much of the wood came from the [[street]]s, salvaged and re[[purpose]]d, adding a layer of history and sustainability to the structure. this decision to use reused [[material]]s not only [[reduc]]ed costs but also tied the house to its [[surround]]ings, creating a deeper [[connect]]ion between the home and the [[environment]].
 
 in the end, the artist didn’t just renovate a house—they [[breath]]ed new [[life]] into it. the house became more than just a structure; it became a living, breathing work of art. through creativity, resourcefulness, and a [[commitment]] to both function and aesthetic, the artist [[trans]]formed an old, forgotten space into a vibrant home, reflecting the beauty of transformation and the power of artistic vision.
+
+#archive

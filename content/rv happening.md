@@ -7,3 +7,5 @@ the [[result]]ing canvas, measuring 2.7 x 3 meters, serves as a visceral [[respo
 
 exhibited at [[earthern]]
 also: [[rv sculpture]]
+
+#archive
