@@ -1,1 +1,1 @@
-[[mother]] [[nature]]
+[[mother]] [[natur]]

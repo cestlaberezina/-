@@ -1,4 +1,4 @@
-a "given", "[[intent]]ional" [[sign]] (signa data) ([[territorialization]]) and an "unaccountable", [[nature]]al [[sign]] (signa propria) ([[deterritorialization]])
+a "given", "[[intent]]ional" [[sign]] (signa data) ([[territorialization]]) and an "unaccountable", [[natur]]al [[sign]] (signa propria) ([[deterritorialization]])
 
 expressive [[movement]] [[theatre]]
 - cannot be [[stasis]], it is always a [[dynamic]] [[moment]]; in any expressive [[movement]] there is a so-called [[moment]] of [[fix]], which will be followed either by a new [[proaction]] or a state of [[rest]]

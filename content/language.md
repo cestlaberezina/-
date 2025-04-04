@@ -3,7 +3,7 @@ a [[shared]] agreement, [[opaque]]
 - [[the symbolic]]
 - "pre-exists" to what is [[being]] translated [[implicit]] [[predetermined]]
 - [[signifier]]
-- [[meaning]]
+- [[mean]]
 
 >linguistic [[repress]] as a [[cause]] of pregnancy
 

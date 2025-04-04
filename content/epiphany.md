@@ -1,1 +1,1 @@
-[[divine]], [[reveal]]
+[[divin]], [[reveal]]

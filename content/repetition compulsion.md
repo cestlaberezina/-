@@ -1,6 +1,6 @@
 - [[freud]] ('beyond the [[pleasure principle]]'): [[mechanism]] ([[machine]]?) of [[symbol]]ization of [[loss]]es and [[trauerarbeit]] 
 - the inevitable return of psychological [[trauma]]
-- the [[existen]] of the [[mortido]]
+- the [[exist]] of the [[mortido]]
 - influenced [[derrida]] [[foucault]] [[deleuze]] [[guattari]]
 
 - a [[movement]] of repetition in which the [[subject]] ([[nothing]]) attempts to [[grasp]] their [[being]] in [[language]], but [[discovery]]s that, in so doing, they [[surrender]] themself to the [[structure]] of the [[signifier]] and thus to their [[determination]] in the [[field]] of the [[Other]] = [[territorialization]] 

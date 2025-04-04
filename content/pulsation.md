@@ -1,1 +1,1 @@
-a [[circuit]] [[trace]]d [[between]] the [[subject]] and the [[other]] as a point of [[junction]] [[between]] the [[unconscious]] and the [[field]] of [[the sexual real]], the [[libido]] [[emerge]]s only as a [[void]]
+a [[circuit]] [[trace]]d [[between]] the [[subject]] and the [[other]] as a point of [[junction]] [[between]] the [[unconscious]] and the [[field]] of [[the sexual real]], the [[libido]] [[emerg]]s only as a [[void]]

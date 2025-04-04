@@ -1,2 +1,2 @@
 pour-soi [[sartre]]
-[[existen]] for which its own [[existen]] is called into [[question]] to the extent that this [[existen]] represents primarily a certain way of not [[being]] oneself and of [[being]] an[[other]] [[being]]”
+[[exist]] for which its own [[exist]] is called into [[question]] to the extent that this [[exist]] represents primarily a certain way of not [[being]] oneself and of [[being]] an[[other]] [[being]]”

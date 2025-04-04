@@ -1,1 +1,1 @@
-psychic apparatus is a device that [[capture]]s [[instinct]]ual [[force]]s, the psychic [[work]] is a [[response]] to its own [[demand]] of [[satisfaction]] that the [[drive]] does to this device [[freud]]
+psychic apparatus is a device that [[captur]]s [[instinct]]ual [[forc]]s, the psychic [[work]] is a [[respon]] to its own [[demand]] of [[satisfaction]] that the [[drive]] does to this device [[freud]]

@@ -1,6 +1,6 @@
-an [[experience]] that is [[observe]]d to [[existen]] or [[happenning]] especially one whose [[cause]] or explanation is in [[question]]
+an [[experience]] that is [[observ]]d to [[exist]] or [[happenning]] especially one whose [[cause]] or explanation is in [[question]]
 
-phenomenological [[resonance]] as a [[method]], [[reverie]]ing observation
+phenomenological [[resonan]] as a [[method]], [[reverie]]ing observation
 >the [[sincer]]ity of the phenomenologist must become a method
 
 

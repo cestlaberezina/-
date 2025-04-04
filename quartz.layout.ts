@@ -15,7 +15,7 @@ export const sharedPageComponents: SharedLayout = {
       griefwork: "https://cestlaberezina.github.io/-/griefwork",
       archive: "https://cestlaberezina.github.io/-/archive",
       contact: "https://cestlaberezina.github.io/-/contacts",
-      "upd 01.25": "https://cestlaberezina.github.io/-/upd",
+      "upd 04.04": "https://cestlaberezina.github.io/-/upd",
     },
   }),
   left: [],

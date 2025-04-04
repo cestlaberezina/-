@@ -1,2 +1,2 @@
 not [[split]]
->what kind of [[existen]] am i a [[reflect]]ion of? [[bachelard]]
+>what kind of [[exist]] am i a [[reflect]]ion of? [[bachelard]]

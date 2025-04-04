@@ -10,4 +10,4 @@
 - [[the real]]
 - [[essence]]tial
 - [[internal]] as an option
-- [[resonance]]
+- [[resonan]]

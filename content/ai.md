@@ -1,3 +1,3 @@
 [[machine]] Ilusión Artificial
 
->is a [[caricature]] of technological ([[utility]]) [[subject]]ivity that discards [[error]]s in [[speech]] and replaces the [[influence]] of [[communication]] with a [[junction]] with the [[machine]], the [[subject]] becomes [[prey]] to this [[delir]] and its [[silence]], possibly slips into the deepest zone of mental weakness [[social psychosis]] and abandons [[ethics]]
+>is a [[caricature]] of technological ([[utilit]]) [[subject]]ivity that discards [[error]]s in [[speech]] and replaces the [[influence]] of [[communication]] with a [[junction]] with the [[machine]], the [[subject]] becomes [[prey]] to this [[delir]] and its [[silen]], possibly slips into the deepest zone of mental weakness [[social psychosis]] and abandons [[ethics]]
