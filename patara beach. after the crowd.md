@@ -1,0 +1,5 @@
+![[https://static.tildacdn.com/tild3536-3061-4735-a630-303661346135/misha.png]]
+
+the [[sand]] still [[hold]]s the shape of [[vanish]]ed [[feet]], though no one [[walk]]s here now. the [[body]], male and bare, [[wander]]s not to [[arriv]]e but to [[remain]] — a [[gesture]] toward [[presence]] in a [[place]] already [[exhaust]]ed by being seen. patara beach near kaş, turkey, [[drain]]ed of its [[season]]al [[ficciones]], lies [[open]] like a page too long [[expos]]ed to [[sun]]: [[fade]]d, [[fragil]]e, unread. in this emptiness, there is no [[discovery]]. the [[wind]] writes its own [[disorder]]ed [[sentenc]]es across the dunes. the [[landscape]] does not [[welcom]]e, nor does it [[reject]]; it simply [[continu]]es, and the body, brief and [[search]]ing, learns to move within its indifference. this are not the [[ficciones]] of [[travel]] brochures, but the [[reality]] left [[behind]] when the crowds disperse
+
+#archive 

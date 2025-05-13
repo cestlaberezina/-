@@ -1,1 +1,1 @@
-[[deviant]] to [[norms]] of [[social]]
+[[deviant]] to [[content/norm]] of [[social]]

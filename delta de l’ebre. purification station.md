@@ -1,0 +1,5 @@
+![[https://static.tildacdn.com/tild3065-6130-4539-b833-666639383438/ambroise.png]]
+
+"shot at a [[water]] [[pur]]ification facility in the delta de l’ebre, the images do not record, they [[confess]]. the [[body]], entangled in the [[contradict]]ion of [[function]] and [[fail]]ure, moves not through choreography but through a [[fatigue]] [[deep]]er than [[muscle]]s. here, water — meant to cleanse — holds the [[bitter]]ness of [[delay]], of systems that [[promis]]e renewal but corrode in [[silen]]ce. i watch this [[flesh]], almost my own, [[drift]] between [[steel]] and reed, like a [[thought]] i tried to purify but found again stained with the very residue it sought to [[escap]]e. the facility hums with [[purpos]]e, but the [[land]] [[feel]]s tired of being [[use]]d for something. and the body, mine or someone else’s, becomes a sponge for the invisible: not just [[chem]]ical, but temporal — the accumulation of unattended [[cris]]es. this is not a [[protest]]. it is a condition."
+
+#archive 

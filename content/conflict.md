@@ -1,4 +1,4 @@
-sets the [[architecture]] of the [[space]] 
+sets the [[architectur]] of the [[space]] 
 - [[resist]]
 - [[drive]]
 - is a [[stasis]] of [[dynamic]]s

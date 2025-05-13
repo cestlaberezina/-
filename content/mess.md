@@ -1,1 +1,1 @@
-[[biodiversity]] [[deep ecology]] [[fertile]] [[chaos]] [[decay]] [[birth]] [[clay]] 
+[[biodiversity]] [[deep ecology]] [[fertile]] [[chao]] [[decay]] [[birth]] [[clay]] 

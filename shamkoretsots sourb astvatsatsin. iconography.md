@@ -1,0 +1,5 @@
+![[https://static.tildacdn.com/tild6430-3539-4637-b138-396165626335/krj24.png]]
+
+in the [[collaps]]ing [[hollow]] of the shamkoretsots sourb astvatsatsin church, she moves like a [[whisper]] might — [[slow]], [[mirror]]ed, [[par]]tial. the [[ruin]] is what [[remain]]s when [[belief]] has lost its [[architectur]]e. once the tallest armenian church in the city, this 18th-century structure — [[damage]]d in the 1989 by [[earthquake]] and now further [[threat]]ened by [[urban]] [[develop]]ment — stands as a [[fracture]]d monument to [[erase]]d [[identit]]ies and contested [[memory]]. by introducing [[foil]] into the [[space]], the artist [[transmit]]s [[catastroph]]e not through [[spectac]]le, but through [[reflect]]ion: [[fragment]]s of [[light]] [[bounc]]e off [[metal]], [[echo]]ing both the [[shimmer]] of [[divin]]e [[iconograph]]y and the harsh glare of [[neglect]]. and [[through]] that [[reflect]]ion, the [[past]] doesn’t [[speak]], it flickers. this series is [[render]]ing a space once [[shape]]d by [[patriarch]]al [[relig]]ious [[power]] into a site of living feminist [[ritual]].
+
+#archive 

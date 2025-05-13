@@ -7,6 +7,6 @@
 - [[represent]]s what [[resist]]s integration into [[the imaginary]] and [[the symbolic]] orders
 - [[deterritorialization]]
 - manifesting as a [[gap]] in the [[experience]]
-- an [[extreme]] [[degree]] of getting close to so called [[reality]]
+- an [[extrem]] [[degree]] of getting close to so called [[reality]]
 
 [[lacan]]

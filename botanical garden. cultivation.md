@@ -1,0 +1,5 @@
+![[https://static.tildacdn.com/tild3666-3565-4635-b433-396138643565/masha.png]]
+
+shot in the botanical garden of tbilisi, this series traces the [[porous]] [[boundar]]y between [[cult]]ivation and [[wild]]ness — between the [[structure]]d [[green]] of a [[public]] space and the [[body]]. the [[subject]], often [[collaps]]ed or [[reach]]ing, [[dissol]]ves into [[ivy]], [[stone]], and [[water]], both seeking [[refuge]] and [[test]]ing [[resist]]ance. once a royal [[garden]] and now a municipal refuge [[nest]]led in a ravine, the tbilisi botanical garden is both manicured and overgrown, [[layer]]ed with histories. moving through a [[curat]]ed [[natur]]e while carrying uncurated [[feel]]ing. here, [[emotion]] is not [[performance]] but [[element]]al — seeping like [[water]] through the [[root]]s of the city’s [[last]] green [[gorge]].
+
+#archive 

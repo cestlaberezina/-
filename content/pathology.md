@@ -1,1 +1,1 @@
-[[derivative]] [[marginal]] of [[norms]]
+[[derivative]] [[marginal]] of [[content/norm]]

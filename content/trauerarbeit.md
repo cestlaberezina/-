@@ -10,4 +10,4 @@ Ilit FERBER:
 
 >in [[trauer]] it is the [[world]] which has [[become]] poor and empty [[void]]; in [[melancholie]] it is the [[ego]] itself
 
->[[benjamin]] names it ([[trauerspiel]]): a “[[constellation]]” (Nägele), a “[[long-distance love affair]]” (Rickels), [[dependence]] (Hanssen) and “[[intertextuality]]” (Ley-Roff). not surrendering to the distinction [[between]] [[norms]]mality and [[pathology]] which [[psychoanalysis]] has made [[commonplace]]
+>[[benjamin]] names it ([[trauerspiel]]): a “[[constellation]]” (Nägele), a “[[long-distance love affair]]” (Rickels), [[dependence]] (Hanssen) and “[[intertextuality]]” (Ley-Roff). not surrendering to the distinction [[between]] [[content/norm]]mality and [[pathology]] which [[psychoanalysis]] has made [[commonplace]]

@@ -1,0 +1,5 @@
+![[https://static.tildacdn.com/tild3662-3236-4639-a430-396536313763/veronika.png]]
+
+shot on the [[dense]]ly [[wood]]ed [[slope]]s of mtatsminda, this series stages a [[raw]] [[encounter]] between the [[human]] [[psyche]] and the [[chao]]tic [[terrain]] it [[emerge]]s from. the [[subject]] — a [[woman]] moving through [[branch]]es, [[mud]] — oscillates between [[collaps]]e and [[invocat]]ion. her face [[contort]]s in [[anguish]], [[ecstasy]]; this choreography of [[emotion]]al [[extrem]]ity is not ornamental; it is a [[ritual]] return to the undergrowth of [[self]]hood. mtatsminda, once a site of [[leisure]] and national [[pride]], becomes a stage for psychological excavation. the [[body]], stripped of [[dec]]orum, becomes a seismic [[puls]]e against the hillside, [[test]]ing whether anything beneath still [[echo]]es back.
+
+#archive 

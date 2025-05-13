@@ -1,5 +1,5 @@
 [[biology]]: [[mutual]], [[commensal]], [[amensal]], [[parasitic]]. obligatory\facultative; the living together ([[cobeing]] of unlike organisms)
-[[hero]]ism of [[pure]] [[love]]: mutual idealization of two truly loving beings = [[poetry]] of [[ideal]]izing [[psyche]], [[exaltation]] = [[perfect moment]]? = [[mortido]] x [[libido]] = [[limerance]] 
+[[hero]]ism of [[pur]] [[love]]: mutual idealization of two truly loving beings = [[poet]] of [[ideal]]izing [[psyche]], [[exaltation]] = [[perfect moment]]? = [[mortido]] x [[libido]] = [[limerance]] 
 
 [[fem]] (anima) x [[masc]] (animus) = some kind of [[substan]]tial [[mystery]] (alchemy) = [[diсhotomy]] that opens up possibilities for more complex and sophisticated psychological research than the strict [[biology]] opposition of male and female could allow. 
 

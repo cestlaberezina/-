@@ -1,0 +1,5 @@
+![[https://static.tildacdn.com/tild3635-6132-4937-b730-663761383165/dara.png]]
+
+set on the jagged [[coast]]line of kas, a small village on the [[mediterranean]] now reshaped by [[wave]]s of tourism, this photographic series stages a quiet [[resist]]ance. the [[body]] moves [[through]] [[stone]] and [[sea]], [[fold]]ing into the crevices of a [[landscape]] both [[intim]]ate and [[fracture]]d. its [[gesture]]s — [[instinct]]ive, [[tactil]]e, [[search]]ing — [[mirror]] the [[tension]] between the [[natur]]al [[rhythm]] of [[place]] and the [[extract]]ive [[logic]] of its [[commodi]]fication. through [[somatics]] [[interaction]] with [[water]] and [[rock]], the work seeks [[refuge]] in a [[prim]]al choreography, one that [[ask]]s how we in[[habit]], [[surrender]] to, and re[[claim]] [[space]] under [[press]]ure.
+
+#archive 

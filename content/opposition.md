@@ -1,1 +1,1 @@
-[[ambivalence]] [[conflict]] [[polarity]] [[complementarity]] [[suppression]]
+[[ambivalence]] [[conflict]] [[polarity]] [[complement]] [[suppression]]

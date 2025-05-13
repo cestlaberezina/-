@@ -1,4 +1,4 @@
->[[phantasm]] [[defence]]: child develops a bad [[object]] that defines his or her [[sense]] of [[self]] and [[identity]], however primordial and disjointed
+>[[phantasm]] [[defence]]: child develops a bad [[object]] that defines his or her [[sens]] of [[self]] and [[identit]], however primordial and disjointed
 
 >the child grows up and the bad [[object]] grows with the child. the bad [[object]] conditions the child to [[fail]] in [[life]] [[decay]]. the more frequently the child fails, the more the bad [[object]] is confirmed, validated and affirmed. It becomes [[rigid]]
 

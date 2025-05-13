@@ -1,0 +1,8 @@
+![[https://static.tildacdn.com/tild6138-3230-4230-b266-623863303432/polya.png]]
+
+in tsikhidziri, before the cranes arrived and the [[coast]] became a [[future]], the [[rock]]s still knew [[nothing]] of [[property]]. the [[body]] was just a [[gesture]] among other gestures — [[wind]], [[wave]], [[weed]] — unsure of its own [[out]]lines. the [[hotel]] hadn’t yet cast its [[shadow]]. there was still a [[space]] for [[use]]less [[intim]]acy with the [[land]]. the photographs come from this [[pause]]: not to document, but to coincide. the [[human]] form isn’t [[cent]]ral, only apparent, like a [[thought]] [[cross]]ing a [[silen]]ce. later, everything will be [[measure]]d and sold. here, for a [[moment]], it is enough to resemble a [[stone]].
+
+tsikhisdziri — a [[coast]]al village in georgia’s adjara region — became the site of large-scale [[transformation]] with the start of petra sea resort construction. this includes a five-star pullman hotel and residential [[develop]]ment, supported by $80 million investment and aimed at high-income tourism. while promoted as a project for economic growth and job [[creat]]ion, it raises [[concern]]s about privatization and [[environment]]al [[loss]] on one of the most unique stretches of the black sea coast.
+the photo series engages with this [[moment]] of [[trans]]ition, exploring how [[human]] bodies relate to a [[place]] not yet fully overtaken by [[commerc]]ial [[grid]]s. through [[gesture]]s, forms, and proximity to land, the images reflect the [[intim]]acy possible with a [[landscape]] when not mediated by industry. the body here doesn’t [[consum]]e space, but co[[exist]]s with it, [[reveal]]ing how natural and human shapes can [[complement]] each other when left un[[disturb]]ed.
+
+#archive 

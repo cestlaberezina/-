@@ -2,7 +2,7 @@
 - [[illusion]]
 - the [[construct]] of the [[ego]]
 - [[root]]ed in the [[mirror stage]]
-- forming a [[sense]] of [[self]]
+- forming a [[sens]] of [[self]]
 - involves misrecognition
 - involves [[ideal]]ized [[image]] of the [[self]] and [[other]]s
 - [[surface]] [[appear]]ance

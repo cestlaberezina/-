@@ -10,6 +10,6 @@ the exhibition included:
 - a [[happenning]] incorporating soil from namakhvani, [[merg]]ing [[movement]], [[matter]]riality, and [[protest]]. recorded and screened throughout the whole exhibition
 - a clay-on-canvas piece as a result of the happening
 
-displayed works: [[brili]], [[rv sculpture]], [[rv happening]], [[uplistsikhe]], [[idbfm]], [[imiom]], [[palpation]]. additionally, the exhibition presented a guest work: a documentary on namakhvani by marina kaganova and leo descristoforo.
+displayed works: [[brili]], [[rv sculpture]], [[rv happening]], [[content/uplistsikhe]], [[idbfm]], [[imiom]], [[palpation]]. additionally, the exhibition presented a guest work: a documentary on namakhvani by marina kaganova and leo descristoforo.
 
 #archive 

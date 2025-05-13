@@ -1,0 +1,5 @@
+![[https://static.tildacdn.com/tild3835-3362-4535-b565-333862323439/gsha.png]]
+
+lisi lake, tbilisi; the [[young]] man [[walk]]s through [[light]] that doesn't last, and perhaps never did: [[gold]] [[press]]ed briefly against [[glass]], then gone. this [[place]], once an elsewhere for the city’s [[lungs]], now [[exhal]]es drywall and investment. the [[tree]]s are [[arrang]]ed, the paths designed to [[feel]] like [[accident]], and the land itself flinches beneath the weight of aestheticized access. once a [[natur]]al [[escap]]e on the [[edge]] of tbilisi, the [[lake]] area is now heavily [[develop]]ed, offering a [[manufactur]]ed version of nature amidst ongoing [[urban]] [[expan]]sion. the [[contrast]] between the [[erotic]]al [[gold]]en-hour [[soft]]ness and the hues of post-sunset [[fade]] underlines the [[fragil]]ity of what [[remain]]s, both in the [[landscape]] and in our [[collective]] [[eco]]logical [[conscious]]ness.
+
+#archive 

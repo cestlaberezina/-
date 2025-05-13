@@ -5,7 +5,7 @@ what
 - [[laugh]]ter is an expedition of an [[ambiguity]] [[ambivalence]] [[feel]]ing
 - [[celebrat]]ion
 - a range of [[interpretation]]s and a [[play]] of [[significa]]ions for the [[viewer]]
-- [[happy]] [[commodity]] [[fetish]]ism of [[bourgeois]] [[social]] order -- [[erotic]]/[[consum]]rist [[desire]]
+- [[happy]] [[commodi]] [[fetish]]ism of [[bourgeois]] [[social]] order -- [[erotic]]/[[consum]]rist [[desire]]
 
 >doisneau: “humour is a form of [[modest]]y, a way of not describing [[thing]]s, of [[touch]]ing on them [[delica]]tely with a wink… it seems as though it hasn’t been mentioned yet the thing has been said all the time”
 
@@ -27,7 +27,7 @@ how
 - picaresque [[adventure]]s
 - [[thing]]s [[behave]]ing like [[person]]s
 - “[[acting out]] of the [[psychoanalysis]]tic notion of [[fem]]ininity as [[masquerade]] that is a representation of a [[masc]] [[desire]]” sherman
-- [[trembl]]ing around the [[edg]]es of that [[identity]]
+- [[trembl]]ing around the [[edg]]es of that [[identit]]
 - the [[void]] stares back? [[mirror]] of the [[viewer]]s [[desire]]
 - history/herstory
 - [[left]] wing [[laugh]]ter, [[cathar]]tic formula of laughter through [[tear]]s and [[suffer]]ing -- “humor can help you see things in a lighter vein even when talking about difficult issues “ wurm

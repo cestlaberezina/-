@@ -1,5 +1,5 @@
 ![[https://static.tildacdn.com/tild3139-3364-4830-a464-333735353265/mossgarden.png]]
-since october 2022, an ongoing integration of [[natur]]e and [[content/architecture|architecture]] has taken shape in an old [[tbilisi]] [[kukia]] house, where [[water]] became both a [[challeng]]e and a [[guid]]e. the [[discovery]] of moisture issues — [[root]]ed in legal complications — led to a [[shift]] in perspective: rather than [[resist]]ing water, why not live with it?
+since october 2022, an ongoing integration of [[natur]]e and [[architectur|architectur]]e has taken shape in an old [[tbilisi]] [[kukia]] house, where [[water]] became both a [[challeng]]e and a [[guid]]e. the [[discovery]] of moisture issues — [[root]]ed in legal complications — led to a [[shift]] in perspective: rather than [[resist]]ing water, why not live with it?
 
 built on a steep [[mountain]] [[landscape]], tbilisi’s housing [[structure]] often [[forc]]es people to live atop one another, complicating construction. instead of [[convention]]al [[solution]]s, this project [[embrace]]d natural [[adapt]]ation. [[experiment]]s with [[material]]s, [[mold]], and [[moss]] unfolded with re[[source]]s [[gather]]ed from the [[mountain]]s.
 

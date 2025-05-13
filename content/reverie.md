@@ -1,14 +1,14 @@
-a state of being, daydreaming, [[poetry]], as opposed to [[psychoanalysis]] [[traumarbeit]]
+a state of being, daydreaming, [[poet]], as opposed to [[psychoanalysis]] [[traumarbeit]]
 **they lead us into the [[world]], not into [[social]]**
 sacralizes its [[object]] -- "from the familiar and [[beloved]] to the [[sacred]] and [[intim]] is one step
 
 [[bachelard]]
 >- a psychologist is very good at seeing how [[imaginati]] is born in [[child]]ren, although he never asks why and how it fades and dies in most [[adult]]s? philosopher "within the philosophical situation" 
->- [[poetry]]ic dream listens to this polyphony of [[mean]]s [[resonan]]
+>- [[poet]]ic dream listens to this polyphony of [[mean]]s [[resonan]]
 >- helps to gain [[trust]] in the [[world]]
 >- an [[ugly]] dream is one that turns into a siesta, and one should even ask oneself whether the [[unconscious]] does not [[suffer]] [[damage]] from this [[fall]]ing [[asleep]] in the process of its [[exist]]
 >- a highly [[natur]]al [[spirit]]ual [[phenomen]]on, too necessary for mental equilibrium to be considered as a [[derivative]] of [[asleep]] 
->- dreams that take the dreamer to a completely different world make him a completely different person. and yet he remains the same, a [[double]] (dreams divide our being more [[tender]]ly, more [[natur]]ally. and with what [[biodiversity]]!)of himself. reveries - but not [[traumarbeit]] - retain [[control]] over these bifurcations. in cases that can be referred to as [[psychiatr]]ic ([[split]], the deep [[natur]] of the reverie is [[erase]]d
+>- dreams that take the dreamer to a completely different world make him a completely different person. and yet he remains the same, a [[double]] (dreams divide our being more [[tender]]ly, more [[natur]]ally. and with what [[biodiversity]]!)of himself. reveries - but not [[traumarbeit]] - retain [[control]] over these bifurcations. in cases that can be referred to as [[psychiatr]]ic ([[split]], the deep [[natur]] of the reverie is [[eras]]d
 >- in his dreams man is all-powerful ([[grandiose]], [[immortality]]). psychology, based on observation, studying [[the real]] man, sees only a [[being]] devoid of any aura.
 
 >- [[practic]]: Victor Hugo went out for a walk at [[dusk]] to "see some strange dreams", "i couldn't [[express]] it, it was one of those [[ineffable]] [[moment]]s when you feel something in you [[fall]]ing [[asleep]] and something [[awake]]ning"

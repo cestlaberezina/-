@@ -1,4 +1,4 @@
 - [[repetition compulsion]]
 - [[pulsation]]
 
->[[between]] concept and [[image]] no [[synth]]esis and no [[continuity]] are possible, they develop along two diverging paths of [[spirit]]ual [[life]]. it may well be that the [[intens]]ification of the [[amensal]] between conceptual activity and the activity of the [[imaginati]] will even be [[benefit]]cial. in any case, anyone who tries to combine these two types of activity will be [[disappoint]]ed. after all, an [[image]] cannot create a [[matter]]erial basis for a concept, while a concept, by giving stability [[territorialization]] to an image, kills it.
+>[[between]] concept and [[image]] no [[synth]]esis and no [[continu]] are possible, they develop along two diverging paths of [[spirit]]ual [[life]]. it may well be that the [[intens]]ification of the [[amensal]] between conceptual activity and the activity of the [[imaginati]] will even be [[benefit]]cial. in any case, anyone who tries to combine these two types of activity will be [[disappoint]]ed. after all, an [[image]] cannot create a [[matter]]erial basis for a concept, while a concept, by giving stability [[territorialization]] to an image, kills it.
