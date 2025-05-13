@@ -1,4 +1,5 @@
 ![[https://static.tildacdn.com/tild6631-3864-4564-b135-323734623662/enric.png]]
+
 in this [[underwater]] series, photographed near cap roig on spain’s mediterranean coast, [[masc]]ulinity is unraveled through a lens of [[ecofem]]inist critique — [[immers]]ed, [[weight]]less, and a[[drift]] in a [[liquid]] world where [[dom]]inance [[dissol]]ves. the subject, a nude male [[figur]]e, [[float]]s and tumbles amid reefs and [[bubbl]]es, [[fragment]]ed by shafts of [[light]] and the [[shift]]ing [[current]]s. his body is at once [[expos]]ed and [[cradle]]d by the [[sea]], stripped of [[cultur]]al [[armor]]. the [[image]]ry subverts the [[archetyp]]e of the [[conquer]]ing male, inviting instead a [[vision]] of [[surrender]], [[reciproc]]ity, and re[[birth]] within the [[element]]al. [[suspend]]ed in a state between [[breath]] and [[water]], [[power]] and [[yield]]ing, the work becomes a [[seduct]]ion away from [[control]] — [[echo]]ing the sea’s own [[resist]]ance to [[border]]s, [[own]]ership, and [[rigid]]ity. 
 
 #archive 
