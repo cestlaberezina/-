@@ -23,3 +23,4 @@ expositions / collaborations / press
 - "mess" lecture, alea charity event, 18.12.2022, tbilisi
 - [physical](http://garbbha.tilda.ws/physical) shibari happening with gary s4b, live soundtrack by nick hudson, 18.12.2022, tbilisi
 - photoseries with and for: katerina kristeva, veronika tikhonova, nyctalops (andreevka), hayk karoyi, alexandra wickenden, natalia musikina, ekaterina ilina, polina koval, maria kashtanova, movement laboratory "movement out", circus company "collectif xy", "not her fault" feminist festival, labellecicatrice, marcel shock, andreu ubaldo, 2023-2025
+- cogito ([[home]]), universal meaning map, wip
