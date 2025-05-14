@@ -1,4 +1,5 @@
 background
+- female reproductive health research as an interviewer (2014-2015), the crisis helpline (2012-2013), orphans (2010-2011), HIV awareness project (2007-2010)
 - practicing embodiment for 10+years ([somatics](https://cestlaberezina.github.io/-/somatics), authentic movement, gaga movement language, vipassana meditation, contact improvisation, dragon dreaming, processwork, relational arts, etc.); theatre laboratory “studio 12” (2014-2015, grotowsky methodology); attention/movement/performance/butoh laboratories (alena surikova, boris pavlovich, berndt knappe etc)
 - studied psychology at spbu (2012-2015, peak [experience](https://cestlaberezina.github.io/-/experience) and [death](https://cestlaberezina.github.io/-/death) narrative research, [in-depth](https://cestlaberezina.github.io/-/in-depth) interview method) 
 - horizontal teamworking (philosophical schools, theatre happenings), egalitarian communities (squats, ideologicalcommunes), eco villages & permaculture
