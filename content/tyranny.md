@@ -1,4 +1,4 @@
-[[control]] [[power]] [[territorialization]] [[language]] [[politic]] [[discourse]] 
+[[control]] [[power]] [[territorialization]] [[language]] [[politic]] [[discours]] 
 
 >“one of sade’s cruellest lessons is that tyranny is implicit in all [[privilege]]. my [[freed]] makes you more unfree, if it does not acknowledge your freedom, also.” carter
 

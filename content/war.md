@@ -1,4 +1,4 @@
->complete [[suppression]] of man’s [[aggression]]ve tendencies is not in
+>complete [[suppress]] of man’s [[aggression]]ve tendencies is not in
 issue; what we may try is to divert it into a channel [[other]] than that of warfare. from our “[[myth]]ology”
 of the [[instinct]]s we may easily deduce a formula for
 an indirect [[method]] of eliminating war. if the propensity for war be due to the destructive [[instinct]] ([[mortido]], we have always its counter-agent, [[libido]], to our

@@ -1,0 +1,1 @@
+lippard: "a portion of [[land]], town, cityscape seen from the inside, the [[external]] world [[mediat]]ed through [[human]] [[subject]]ive [[experience]]"
