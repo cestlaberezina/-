@@ -1,5 +1,5 @@
 ---
-title: home
+title: about
 ---
 pauline pelagia berezina, formerly known as pauline garbbha (b. 1994, [[pskov]], russia) is a inter-, trans- and [[undisciplinary]] artist. her research interests are related to [[art]]istic re[[search]], [[somatics]], [[site-specific]]ificity, [[phenomen]]ology, [[griefwork]] and the [[environment]]. her artwork is focused on carrying the real of the [[landscape]] and [[catastroph]]y by means of [[photograph]]y and [[performance]], and moves between the traditions of performance art, photo art and environmental art. in exile since 2020, currently in paris.
 
