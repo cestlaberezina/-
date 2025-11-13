@@ -9,8 +9,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      home: "https://cestlaberezina.github.io/-/",
-      about: "https://cestlaberezina.github.io/-/about",
+      about: "https://cestlaberezina.github.io/-/",
       photography: "https://cestlaberezina.github.io/-/photography",
       griefwork: "https://cestlaberezina.github.io/-/griefwork",
       archive: "https://cestlaberezina.github.io/-/archive",
