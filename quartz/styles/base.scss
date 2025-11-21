@@ -131,8 +131,10 @@ a {
 }
 
 .page {
-  max-width: calc(#{map-get($breakpoints, desktop)} + 300px);
+  max-width: 60ch;//calc(#{map-get($breakpoints, desktop)} + 300px); nov25
   margin: 0 auto;
+  width: 100%; //nov25
+  padding: 0 1rem;    // un peu de marge sur mobile
   & article {
     & > h1 {
       font-size: 1rem;
@@ -252,7 +254,8 @@ a {
 
     & .center > article {
       grid-area: grid-center;
-    }
+}
+
 
     & footer {
       grid-area: grid-footer;
@@ -277,6 +280,16 @@ a {
     }
   }
 }
+
+//page img {
+  //display: block;
+  //width: 200%;      /* 2x la largeur de la colonne */
+  //max-width: none;  /* on ignore la contrainte max-width */
+  //margin-left: -50%;/* on recentre : moitié à gauche, moitié à droite */
+  //margin-right: 0;
+  //margin-top: 2rem;
+  //margin-bottom: 2rem;
+//}*/
 
 .footnotes {
   margin-top: 2rem;

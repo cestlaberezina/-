@@ -10,6 +10,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       about: "https://cestlaberezina.github.io/-/",
+      portfolio: "https://cestlaberezina.github.io/-/portfolio",
       photography: "https://cestlaberezina.github.io/-/photography",
       griefwork: "https://cestlaberezina.github.io/-/griefwork",
       archive: "https://cestlaberezina.github.io/-/archive",
