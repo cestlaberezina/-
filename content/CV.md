@@ -1,26 +1,40 @@
-background
-- female reproductive health research as an interviewer (2014-2015), the crisis helpline (2012-2013), orphans (2010-2011), HIV awareness project (2007-2010)
-- practicing embodiment for 10+years ([somatics](https://cestlaberezina.github.io/-/somatics), authentic movement, gaga movement language, vipassana meditation, contact improvisation, dragon dreaming, processwork, relational arts, etc.); theatre laboratory “studio 12” (2014-2015, grotowsky methodology); attention/movement/performance/butoh laboratories (alena surikova, boris pavlovich, berndt knappe etc)
-- studied psychology at spbu (2012-2015, peak [experience](https://cestlaberezina.github.io/-/experience) and [death](https://cestlaberezina.github.io/-/death) narrative research, [in-depth](https://cestlaberezina.github.io/-/in-depth) interview method) 
-- horizontal teamworking (philosophical schools, theatre happenings), egalitarian communities (squats, ideologicalcommunes), eco villages & permaculture
-- over 680 hours of personal psychotherapy ([lacan](https://cestlaberezina.github.io/-/lacan)ian [psychoanalysis](https://cestlaberezina.github.io/-/psychoanalysis)) by january 2025 
-- [practice as a certified death grief doula](https://cestlaberezina.github.io/-/griefwork) since december 2023
 
-expositions / collaborations / press
--  studio 12 group performance, klim, 2015, petersburg
-- "afraid" group performance, boris pavlovich workshop, russian reporter summer school, july 2016, moscow
--  clay pt.I, solo performance, january 2020, petersburg
-- "[earthern](http://garbbha.tilda.ws/earthern)" exhibition, fotografia gallery, march 2021, tbilisi
-- clay pt.II, ["rv" happening](http://garbbha.tilda.ws/rvhappening) with natia chikvaidze, fotografia gallery, 05.03.2021, tbilisi
-- "rv" happening screening, cca, video peace traffic / moving image festival, 5-6.07.2021, tbilisi
-- [interview for ajara tv](https://youtu.be/_bulJVjZg7w?si=H240khcGu1xVzfex), 05.08.2021
-- "mom" artwork, guest art project at alexandra kirienkova personal exhibition, september 2021, tbilisi
-- collection for [le chic radical](http://garbbha.tilda.ws/lcr), november 2021, tbilisi
-- "[obscure](http://garbbha.tilda.ws/obscure)" solo exhibition, eleven window, 24-30.12.2021, tbilisi
-- "MA" group exhibition by "studio RO", Milan, 06.06-31.12, 2022
-- uplistsikhe, [international fair of architecture](http://garbbha.tilda.ws/cersaie2022), september 2022, cersaie 2022
-- reportage about nela nela for [courier magazine](http://garbbha.tilda.ws/courier), printed in august 2022
-- "mess" lecture, alea charity event, 18.12.2022, tbilisi
-- [physical](http://garbbha.tilda.ws/physical) shibari happening with gary s4b, live soundtrack by nick hudson, 18.12.2022, tbilisi
-- photoseries with and for: katerina kristeva, veronika tikhonova, nyctalops (andreevka), hayk karoyi, alexandra wickenden, natalia musikina, ekaterina ilina, polina koval, maria kashtanova, movement laboratory "movement out", circus company "collectif xy", "not her fault" feminist festival, labellecicatrice, marcel shock, andreu ubaldo, 2023-2025
-- cogito ([[home]]), universal meaning map, wip
+BACKGROUND
+- Studied Psychology at Saint Petersburg State University (SPBU) (2012-2015, Peak Experience And Death Narrative Research, in-depth interview method)
+- Female Reproductive Health Research (interviewer) (2014-2015), Crisis Helpline Consultant (2012-2013), Orphans Pedagogue (2010-2011), HIV Awareness Project (performer) (2007-2010)
+- Practicing embodiment for 10+ years (Somatics, Authentic Movement, Gaga Movement Language, Vipassana Meditation, Contact Improvisation, Dragon Dreaming, Processwork, Relational Arts, etc.);
+- Short Distance Runner and Polyathlete (Federal level, Candidate Master of Sports, 2004-2009), Dressage Athlete (2000-2003)
+- Theatre Laboratory “Studio 12” (2014-2015, Grotowski Method);
+- Performance / Butoh / Street Theatre Laboratories (Alena Surikova, Boris Pavlovich, Berndt Knappe etc.)
+- Horizontal Teamworking (philosophical schools, theatre happenings), Egalitarian Communities & Intentional Communes), Eco Villages & Permaculture
+- Over 710 hours of Lacanian Psychoanalysis by october 2025
+- Practice as a Certified Death Drief Doula since december 2023
+
+WORKS IN PROGRESS
+- 2025: “Désarticulé” photography project, Institut Français
+- 2024: "Cogito", Universal meaning map
+- 2024: "Dans la mer extracellulaire"
+- 2023-2025: photoseries with and for: circus company “Collectif XY”, Katerina Kristeva, Veronika Tikhonova, Nyctalops (andreevka), Hayk Karoyi, Alexandra Wickenden, Natalia Musikina, Ekaterina Ilina, Polina Koval, Maria Kashtanova, movement laboratory “Movement Out”, “Not her fault” feminist festival, labellecicatrice, Marcel Shock, Andreu Ubaldo and others, Georgia, Spain, France
+
+EXHIBITIONS / PRESS 
+- 2025, september: "My Love Is Mine" short film screening, Paris
+- 2025, september: short movie "Fermentation" & live talk for Derzhi
+- 2025, february-may: cineclub "Cirque" with Antoine Depreux, Paris
+- 2025, april-june: "Werkhaus Qualitative Study & Sociotechnique Strategy" with Antoine Depreux; "Safe Space Suring Setup" with Elli Grund for Nowhere festival, Spain
+- 2023, july: murals painting (Noinfo, Werkhaus Bar) for Nowhere festival, Spain
+- 2023, october: lecture on Basics Of Photography for Festival Of Humanity, Death Foundation, Georgia
+- 2022, december: "Physical Shibari Happening" with Gary S4B and Nick Hudson, “Mess” lecture, for Alea antiwar charity event, Tbilisi
+- 2022, august: series about "Nela Nela" for Courier magazine, UK
+- 2022, september: “Uplistsikhe”, International Fair of Architecture, Cersaie 2022
+- 2022, june-december: “MA” Group exhibition by “Studio RO”, Milan
+- 2021, december: “Obscure” solo exhibition, Eleven window, Tbilisi
+- 2021, november: collection for Le Chic Radical, Tbilisi
+- 2021, september: “Mom” guest art project for Alexandra Kirienkova exhibition, Tbilisi
+- 2021, august: Interview for Ajara TV, Georgia
+- 2021, july: “RV happening" screening, CCA, Video Peace Traffic / Moving Image festival, Tbilisi
+- 2021, march: “RV happening" with Natia Chikvaidze, Fotografia gallery, screened at Earthern, Tbilisi
+- 2021, march: “Earthern” exhibition, Fotografia Gallery, Tbilisi
+- 2020, january: "Clay pt.I": solo performance, Saint-Petersburg
+- 2016, july: “Afraid” group performance, with the help of Boris Pavlovich, for LSRR, Moscow
+- 2015, december: Studio 12 group performance, with texts of Klim, Saint-Petersburg
+- 2015-2017: photo reportages and texts for Okolo magazine, Saint-Petersburg
