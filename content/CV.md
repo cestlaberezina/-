@@ -1,4 +1,3 @@
-
 BACKGROUND
 - Studied Psychology at Saint Petersburg State University (SPBU) (2012-2015, Peak Experience And Death Narrative Research, in-depth interview method)
 - Female Reproductive Health Research (interviewer) (2014-2015), Crisis Helpline Consultant (2012-2013), Orphans Pedagogue (2010-2011), HIV Awareness Project (performer) (2007-2010)
