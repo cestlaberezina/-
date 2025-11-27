@@ -1,16 +1,8 @@
 ---
-title: about
+title: portfolio
 ---
-pauline pelagia berezina, formerly known as pauline garbbha (b. 1994, [[pskov]], russia) is a inter-, trans- and [[undisciplinary]] artist. her research interests are related to [[art]]istic re[[search]], [[somatics]], [[site-specific]]ificity, [[phenomen]]ology, [[griefwork]] and the [[environment]]. her artwork is focused on carrying the real of the [[landscape]] and [[catastroph]]y by means of [[photograph]]y and [[performance]], and moves between the traditions of performance art, photo art and environmental art. in exile since 2020, currently in paris.
+![[https://static.tildacdn.com/tild3863-3636-4564-a436-363235613665/portfolio-big.png]]
 
-![[https://static.tildacdn.com/tild3433-3630-4536-b866-653233623962/about.png]]
-
-her [[art]]istic ambition is to create [[space]]s for [[resonan]]ce with the [[natur]]e inside and outside. in this [[pulsation]] [[between]] inner and outer [[world]]s she sees a [[potential]] of [[politic]]al [[act]]ion: [[become]]ing toward a deeply ecological [[exist]]ence.
-
-unrehearsed and intuitive, her [[work]] doesn’t aim to resolve but to [[cataly]]ze — an [[adventure]], a [[dialogue]], a [[mistak]]e. shaped by [[poor]] [[theatre]], [[somatics]], [[psychoanalysis]] and [[phenomen]]ology, pauline berezina works in [[mess]]y, liminal dimensions where [[the imaginary]] & [[the real]] collide. 
-
->moving in the landscape through the body i am or [[other]]s are is the overall theme for my artistic practice, which recently is focused on [[trauma]], [[griefwork]], [[environment]]al issues and sorts of [[internal]] or [[external]] [[catastroph]]y, reinforced by means of [[phenomen]]ology and [[semantic]]s. 
->
 >i believe that [[war]] happens first and perpetually inside, fever is the body's way to [[pray]] and any [[word]] is a [[gesture]]. for me matters: [[question]]ing as an [[act]]ion, [[collaps]]e at the end of the step, [[simpl]]icity of tears, what turns [[grief]] into [[beauty]], when people move their feet to let me [[pass]] to my seat in the theater, [[wander]], [[reverie]], [[heart]], how to [[hold]] open the door in which i stand, intercellular [[space]], how to go on, [[worship]], how the [[space]] is [[fill]]ed with some kind of [[electricity]], how to [[walk]] in one's own unbought skin, how to [[resist]] the [[loss]] of [[wonder]], what to do when no one is to [[blame]], [[nausea]], removal of [[distan]]ce, when something does not begin, how to [[fly]] underwater, [[abode]]s.
 
 [[CV]], [[archive]] 
