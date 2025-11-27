@@ -24,9 +24,9 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Cormorant Garamond",
-        body: "Cormorant Garamond",
-        code: "Cormorant Garamond",
+        header: "Roboto",
+        body: "Roboto",
+        code: "Roboto",
       },
       colors: {
         lightMode: {
