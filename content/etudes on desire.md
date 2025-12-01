@@ -4,6 +4,8 @@
 
 ![[https://static.tildacdn.com/tild3962-3862-4162-b437-643263396234/tendersol3.png]]
 
-these three studio series unfold like [[monolog]]ues, [[whisper]]ed not to be heard but to be spoken. they [[trace]] a [[fem]]inine [[pass]]age — not linear, not resolved — back to the contours of her own [[sex]]uality, long [[fold]]ed beneath the [[practic]]al cloth of [[mother]]hood, marriage, and the social grammar of [[care]]. in the first, [[red]] presses close around a [[figure]] [[cloak]]ed in [[soft]] [[blue]] — [[offer]]ing no [[answer]]s, only a [[permi]]ssion to step sideways, [[out]] of [[role]]s and into [[ambiguity]]. the second is [[rope]]s and colors [[layer]]ing suggestion and [[control]], not as binaries but as entanglements. [[pleasure]], [[memory]], restraint — all move in and out of [[focus]]. the third strips away all [[surface]], black and white, a sparse room, a woman alone. the [[silen]]ce is not [[symbol]]ic; it is actual. here is the [[limbo]] of return: to the [[self]], to a space that may no longer fit. nothing declares closure.
+Three studio series explore feminine sexuality and identity within motherhood and social grammar of care. They move from color and texture to ropes and suggestion, ending in sparse black-and-white spaces focused on solitary reflection. Saint-Petersburg, 2024
+
+[[trace]] [[fem]] [[pass]] [[sex]] [[fold]] [[practic]] [[mother]] [[care]] [[red]] [[press]] [[blue]] [[role]] [[ambiguity]] [[rope]] [[control]] [[pleasure]] [[focus]] [[surface]] [[limbo]] [[self]] [[women]]
 
 #archive 

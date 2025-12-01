@@ -1,4 +1,7 @@
 ![[https://static.tildacdn.com/tild6261-3331-4366-a333-636539366239/manu2.png]]
-this photographic series (2025), set within the space of a historic parisian [[circus]] now re[[purpos]]ed into a [[commerc]]ial venue, explores the [[tension]] between [[collective]] [[memory]] and [[capital]]ist re[[invent]]ion. the [[juxtapos]]ition of the [[figur]]e against the backdrop of [[fade]]d grandeur and commercial [[transformation]] evokes themes of [[isolation]], the passage of [[time]], and the [[commodi]]fication of cultural spaces. the composition of the vast emptiness of the stage invites [[reflect]]ion on how spaces once [[dedicat]]ed to [[commun]]al [[wonder]] have been re[[context]]ualized within contemporary [[economy]] frameworks.
+
+This 2025 series captures a historic Parisian circus repurposed as a commercial venue, examining the tension between collective memory and capitalist transformation. Figures are framed against faded grandeur, highlighting isolation, temporality, and the commodification of cultural space. Paris, France, 2025.
+
+[[commodi]] [[commerc]] [[collective]] [[wonder]] 
 
 #archive 

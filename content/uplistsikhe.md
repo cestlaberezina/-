@@ -1,9 +1,7 @@
 ![[https://static.tildacdn.com/tild3330-3336-4238-a665-626339363039/uplistsikhe.png]]
 
-uplistsikhe, an ancient [[cave]] town near gori, [[hold]]s the remnants of architectural and [[cult]] [[structure]]s that have withstood thousands of years. within this [[landscape]], the [[interplay]] of [[void]]s in the cave buildings is striking — some voids are at the very [[bottom]], while the entire upper structure [[rest]]s upon them.
+Uplistsikhe, an ancient cave town near Gori, becomes the reference for a vessel crafted from local red and wild clay. Drawing on the caves’ internal voids, rhythms, and architectural balance, the piece channels the convergence of natural forces, human intervention, and history. Engobes and glazes enhance its form, fired at 1050℃ to embody the spirit of the landscape. Exhibited at Earthern, Cersaie 2022 (Italgraniti).
 
-the artist is drawn to the [[complex]]ity of these internal voids, the biological [[rhythm]] [[embed]]ded in the [[space]], and the [[balance]] [[between]] the scope and [[essence]] of this [[place]]. the [[vessel]] created [[reflect]]s this deep [[connect]]ion to the [[land]] and history, crafted from [[local]] red [[clay]] and [[wild]] clay, shaped with engobes and [[glaz]]es. fired at 1050℃, the work [[captur]]es the [[spirit]] of uplistsikhe’s architecture—where ancient history, [[natur]]al [[forc]]es, and [[human]] intervention converge.
-
-exhibited: [[earthern]], international fair of architecture at cersaie 2022 (italgraniti)
+[[cult]] [[architectur]] [[void]] [[interplay]] [[rhythm]] 
 
 #archive

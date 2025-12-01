@@ -1,5 +1,7 @@
 ![[https://static.tildacdn.com/tild6139-6565-4366-b338-353534636561/sasha.png]]
 
-shot in the storied streets of paris’ latin quarter, this series follows russia’s first [[death]] [[doula]] and death-ed [[act]]ivist as she navigates the [[intim]]ate [[terrain]] of [[aging]], [[beauty]], and [[identit]]y. once a neighborhood of [[flirt]]ation and [[youth]]ful [[hope]] — [[anchor]]ed in the academic [[gravit]]as of sorbonne — quartier latin now [[reflect]]s a different [[rhythm]] for her: one of [[gravit]]y, [[memory]] and [[confront]]ation. the shoot becomes a space for [[embod]]iment and [[release]], where moments of [[play]]ful [[rebel]]lion [[surface]] against the backdrop of [[institut]]ional [[stone]]. she, the person, [[wrestl]]es with images that [[reveal]] her [[shadow]] side, touched by [[masc]]ulinity and [[control]], which is followed by an additional [[doula]] session to process it together. this exploration [[blur]]s personal [[myth]]ology with place, revealing how cities and bodies age, [[resist]], and transform.
+This series follows russia’s first [[death]] [[doula]] and death-ed [[act]]ivist as she navigates the [[intim]]ate [[terrain]] of [[aging]], [[beauty]], and [[identit]]y. Followed by an additional [[doula]] session to process the result. September 2024, Latin Quartier, Paris
+
+[[flirt]][[youth]] [[hope]] [[anchor]] [[gravit]][[memory]][[confront]][[embod]] [[release]] [[play]][[rebel]] [[surface]] [[wrestl]] [[wrinkl]]  [[reveal]] [[shadow]] [[masc]] [[control]] [[myth]] [[site-specific]] [[women]] [[beauty]] [[resist]] [[social]] 
 
 #archive 

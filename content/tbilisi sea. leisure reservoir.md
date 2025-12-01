@@ -1,5 +1,8 @@
 ![[https://static.tildacdn.com/tild3466-3463-4461-b435-373962303861/krj22.png]]
 
-"the [[light]] fell without [[ask]]ing, blunt and directionless, as if the [[sky]] had forgotten how to [[nuanc]]e. i [[captur]]ed her [[body]] [[move]] [[under]] it — [[drift]]ing [[between]] [[effort]] and letting go. something about the way her [[shoulder]] met the [[water]] made me think of [[decisio]]ns that happen without our [[consent]], like [[muscle]] remembering something we never meant to [[learn]]. tbilisi sea, they [[call]] it. but there is no [[sea]]. only a [[reservoir]] — [[soviet]], artificial, full of [[ambition]] and [[neglect]]. i have always found the idea of [[leisure]] to be tiring. people come to [[forget]]. buried pipes, the [[slow]] [[rot]] of [[care]]lessness, the quiet [[accum]]ulation of [[tox]]ins we don’t have the [[language]] to [[name]]. and she, under that [[merc]]iless [[noon]] [[sun]], became less a [[figur]]e and more a [[surface]]. at first careless — [[weight]]less — and then, suddenly, [[compos]]ed. not by [[will]], but by [[necess]]ity. a [[woman]], a body, a [[fail]]ing [[landscape]], the un[[reach]]able [[idea]] of [[rest]]."
+This series is highlighting the interplay between human presence and a landscape shaped by Soviet-era infrastructure and neglect. The work observes movement, endurance, and the effects of environmental and social histories. "Something about the way her [[shoulder]] met the [[water]] made me think of [[decisio]]ns that happen without our [[consent]], like [[muscle]] remembering something we never meant to [[learn]]." Tbilisi Sea, Tbilisi, 2022.
+
+[[effort]] [[soviet]] [[neglect]] [[rot]] [[leisure]] [[tox]] [[noon]] [[sun]] [[will]] [[rest]] 
+
 
 #archive 

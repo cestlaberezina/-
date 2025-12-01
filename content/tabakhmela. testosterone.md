@@ -1,5 +1,7 @@
 ![[https://static.tildacdn.com/tild3038-3834-4664-b535-303739613734/andreevka.png]]
 
-"set against the [[skelet]]al [[remain]]s of tabakhmela’s [[pharm]]aceutical factory, he moves — not like a [[man]] performing [[strength]], but like someone trying to [[remember]] what strength ever meant. the [[metal]] is [[rust]]ed, the [[earth]] [[smell]]s of old [[chem]]icals and [[animal]] [[death]], and there is no [[audience]] but [[ruin]]. yet he [[climb]]s. he [[run]]s. he [[reach]]es. in each [[gesture]], a kind of [[futil]]ity, and in that futility, a strange, unshakable [[beauty]]. the [[landscape]] no longer [[promis]]es anything: not [[work]], not [[progress]], not redemption. it is a [[stage]] for [[ghost]]s. and still, the body [[insist]]s. it insists on [[being]] here, inside this undone [[ambition]], inside the [[echo]] of something once [[industrial]], now merely [[real]]."
+"Set against the [[skelet]]al [[remain]]s of tabakhmela’s [[pharm]]aceutical factory, he moves — not like a [[man]] performing [[strength]], but like someone trying to [[remember]] what strength ever meant. The [[metal]] is [[rust]]ed, the [[earth]] [[smell]]s of old [[chem]]icals and [[animal]] [[death]], and there is no [[audience]] but [[ruin]]. " The work reflects on memory, futility, and resilience in a space stripped of its former purpose. Tabakhmela, Georgia, 2023.
+
+[[run]] [[reach]] [[progress]] [[utilit]] [[stage]] [[masc]] [[ambition]] [[narcissism]] [[exhaust]] [[limit]] 
 
 #archive 

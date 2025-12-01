@@ -1,12 +1,7 @@
 ![[https://static.tildacdn.com/tild3134-3639-4438-b634-616238323637/rvhappening.png]]
 
-on march 5, 2021, at fotografia gallery in [[tbilisi]], a [[power]]ful [[dialogue]] happened [[between]] two [[women]] artists, united by the [[material]] of [[clay]]. natia, a [[local]] artist born in racha, near the rioni valley, and the russian born pauline, both from different backgrounds, came [[together]] in the [[attent]]ive [[space]] of the [[happening]]. in this [[share]]d [[moment]], clay became a [[medium]] that [[freed]] the [[unconscious]], guiding them [[through]] an [[intuit]]ive [[process]].
+On March 5, 2021, at Fotografia Gallery in Tbilisi, two women artists, Natia born in Racha and Pauline from Russia, collaborated using clay as a medium. Working with soil from the Rioni Valley, affected by the Namakhvani dam project, their 2.7 × 3 m canvas became a tactile exploration of unconscious processes and a response to environmental and social challenges. Tbilisi, 2021.
 
-they used [[soil]] from the rioni valley, a region marked by the controversial namakhvani dam project, which led to [[eco]]logical and [[social]] [[disaster]]s. 
-
-the [[result]]ing canvas, measuring 2.7 x 3 meters, serves as a visceral [[respon]]se to the [[struggl]]es faced by the rioni valley and a testament to the [[trans]]formative [[power]] of art in the face of [[environment]]al injustice.
-
-exhibited at [[earthern]]
-also: [[rv sculpture]]
+[[women]] [[clay]] [[soil]] [[deep ecology]] [[catastroph]] [[struggl]] [[power]] [[environment]] 
 
 #archive

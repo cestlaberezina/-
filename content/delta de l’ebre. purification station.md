@@ -1,5 +1,7 @@
 ![[https://static.tildacdn.com/tild3065-6130-4539-b833-666639383438/ambroise.png]]
 
-"shot at a [[water]] [[pur]]ification facility in the delta de l’ebre, the images do not record, they [[confess]]. the [[body]], entangled in the [[contradict]]ion of [[function]] and [[fail]]ure, moves not through choreography but through a [[fatigue]] [[deep]]er than [[muscle]]s. here, water — meant to cleanse — holds the [[bitter]]ness of [[delay]], of systems that [[promis]]e renewal but corrode in [[silen]]ce. i watch this [[flesh]], almost my own, [[drift]] between [[steel]] and reed, like a [[thought]] i tried to purify but found again stained with the very residue it sought to [[escap]]e. the facility hums with [[purpos]]e, but the [[land]] [[feel]]s tired of being [[use]]d for something. and the body, mine or someone else’s, becomes a sponge for the invisible: not just [[chem]]ical, but temporal — the accumulation of unattended [[cris]]es. this is not a [[protest]]. it is a condition."
+Shot at a water purification facility in the Delta de l’Ebre, the series documents the body moving amid steel and reeds, negotiating the tension between function and failure. Water, intended to cleanse, reflects delay and corrosion, while the images trace the accumulation of environmental and temporal pressures. The work situates the body within a landscape marked by human and systemic strain. 2024, Spain
+
+[[water]] [[pur]] [[confess]] [[body]] [[contradict]][[function]] [[fail]] [[fatigue]] [[deep]] [[bitter]] [[delay]] [[flesh]] [[drift]] [[steel]] [[escap]] [[use]] [[chem]] [[cris]]
 
 #archive 

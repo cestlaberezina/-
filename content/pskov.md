@@ -1,9 +1,7 @@
 ![[https://static.tildacdn.com/tild3965-6236-4032-a433-396264363861/pskov.png]]
 
-this series is [[shape]]d by a [[journey]] — both physical and [[concept]]ual — back to [[origin]]s. [[source]]d from the red-[[burn]]ing [[clay]] [[reservoir]] of [[skvoshino]]’s [[anarch]]o-[[commun]]ity, these [[work]]s [[embod]]y a [[line]]age of [[knowledge]] [[pass]]ed from [[hand]] to hand.
+This series is [[shape]]d by a [[journey]] — both physical and [[concept]]ual — back to [[origin]]s. [[Source]]d from the red-[[burn]]ing [[clay]] [[reservoir]] of [[skvoshino]]’s [[anarch]]o-[[commun]]ity, these [[work]]s [[embod]]y a [[line]]age of [[knowledge]] [[pass]]ed from [[hand]] to hand.
 
-born in [[pskov]], the artist sought to re[[connect]] with [[place]] [[through]] [[material]], [[ask]]ing a [[friend]] from the skvoshino community to un[[earth]] clay from the [[land]]. another member of the community [[share]]d the [[process]] of preparing and [[fir]]ing [[wild]] clay, [[offer]]ing both [[guid]]ance and [[access]] to a [[kiln]].
-
-[[root]]ed in [[prim]]al techniques, the series [[reflect]]s an [[intuit]]ive approach to clay — [[tradition]]al [[milk]]ing [[method]]s [[meet]] the [[organ]]ic un[[predict]]ability of [[raw]] [[material]], [[shape]]d into [[bowl]]s for [[tea]] [[ceremon]]y. this was the artist’s first series, and it made clear that the [[path]] would [[follow]] [[wild]] clay, deep re[[search]], and the unre[[fine]]d [[beauty]] of ancient [[process]]es.
+Born in [[pskov]], the artist sought to re[[connect]] with [[place]] [[through]] [[material]], [[ask]]ing a [[friend]] from the Skvoshino community to un[[earth]] clay from the [[land]]. Another member of the community [[share]]d the [[process]] of preparing and [[fir]]ing [[wild]] clay, [[offer]]ing both [[guid]]ance and [[access]] to a [[kiln]].
 
 #archive
