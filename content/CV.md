@@ -15,7 +15,7 @@ WORKS IN PROGRESS
 - 2024: "Dans la mer extracellulaire"
 - 2023-2025: photoseries with and for: circus company “Collectif XY”, Katerina Kristeva, Veronika Tikhonova, Nyctalops (andreevka), Hayk Karoyi, Alexandra Wickenden, Natalia Musikina, Ekaterina Ilina, Polina Koval, Maria Kashtanova, movement laboratory “Movement Out”, “Not her fault” feminist festival, labellecicatrice, Marcel Shock, Andreu Ubaldo and others, Georgia, Spain, France
 
-EXHIBITIONS / PRESS 
+EXHIBITIONS / PRESS
 - 2025, september: "My Love Is Mine" short film screening, Paris
 - 2025, september: short movie "Fermentation" & live talk for Derzhi
 - 2025, february-may: cineclub "Cirque" with Antoine Depreux, Paris
