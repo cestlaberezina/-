@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "garbbha.github.io/-",
+    baseUrl: "cestlaberezina.github.io/-",//"garbbha.github.io/-",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: true,
