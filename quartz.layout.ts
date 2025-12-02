@@ -11,7 +11,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       home: "https://cestlaberezina.github.io/-/",
       bio: "https://cestlaberezina.github.io/-/bio",
-      cv: "https://cestlaberezina.github.io/-/cv-copy",
+      cv: "https://cestlaberezina.github.io/-/cv",
       photography: "https://cestlaberezina.github.io/-/photography",
       griefwork: "https://cestlaberezina.github.io/-/griefwork",
       archive: "https://cestlaberezina.github.io/-/archive",
