@@ -1,3 +1,5 @@
+this website is UMM.
+
 >umm's aims to create an adaptive system of abstractions that maps the user worldview and therefore it becomes and extension of the Umm user mind, enhanced by the capacities of the computer.... umm is founded on the idea that computer should serve to support meeting human needs and in particular the need for coherence [xavi vives](https://xavivives.com/#/)
 
 universal meaning map, the technology shared with me by [xavi vives](https://xavivives.com/#/) in emporda, summer 2024. more [here](https://buttondown.com/themeaninggap/) 

@@ -1,0 +1,5 @@
+![[https://vimeo.com/1120405188?fl=ip&fe=ec]]
+
+“My Love Is Mine” is a film created by Pauline Berezina after a year of living with [Antoine Depreux](https://www.instagram.com/antoine_depreux/). It was first shown at a surprise birthday gathering among his friends. The film’s purpose was simple and direct: to let him be seen without the usual [[armor]], to reveal the person behind the [[façade]], and to give him a moment of being held by the [[gaze]] of others without performance or [[defence]]. It also [[expos]]es Pauline’s gaze. The film is as much about her [[love]] as it is about him, revealing the way she sees, [[hold]]s, and [[interpret]]s him. In that sense, the piece becomes a portrait of a [[relationship]] rather than a single person: an [[intim]]ate document of loving, not just of the one being loved.
+
+#archive 

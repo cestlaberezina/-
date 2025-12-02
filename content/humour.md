@@ -4,7 +4,7 @@ what
 - the [[matter]]ial [[body]]ily lower stratum [[bakhtin]]
 - [[laugh]]ter is an expedition of an [[ambiguity]] [[ambivalence]] [[feel]]ing
 - [[celebrat]]ion
-- a range of [[interpretation]]s and a [[play]] of [[significa]]ions for the [[viewer]]
+- a range of [[interpret]]s and a [[play]] of [[significa]]ions for the [[viewer]]
 - [[happy]] [[commodi]] [[fetish]]ism of [[bourgeois]] [[social]] order -- [[erotic]]/[[consum]]rist [[desire]]
 
 >doisneau: “humour is a form of [[modest]]y, a way of not describing [[thing]]s, of [[touch]]ing on them [[delica]]tely with a wink… it seems as though it hasn’t been mentioned yet the thing has been said all the time”
@@ -33,7 +33,7 @@ how
 - [[left]] wing [[laugh]]ter, [[cathar]]tic formula of laughter through [[tear]]s and [[suffer]]ing -- “humor can help you see things in a lighter vein even when talking about difficult issues “ wurm
 - transient [[natur]] of [[mortal]] [[life]]
 - “superior revolt of the mind” breton “total insubordination”; Dalí's work provides a marvellous example of how 'humour, refutation of reality the grandiose affirmation of the [[pleasure principle]]' combine to produce [[delir]]ious and [[hysteric]]al results
-- gimmicky, deranged images that were 'based on the [[interpretation]]ive and critical [[associat]]ion of [[delir]]ious [[phenomen]]a'
+- gimmicky, deranged images that were 'based on the [[interpret]]ive and critical [[associat]]ion of [[delir]]ious [[phenomen]]a'
 - absurd dislocation
 
 

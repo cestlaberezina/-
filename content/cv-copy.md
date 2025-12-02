@@ -1,17 +1,17 @@
 BACKGROUND
-- Studied Psychology at Saint Petersburg State University (SPBU) (2012-2015, Peak Experience And Death Narrative Research, in-depth interview method)
-- Female Reproductive Health Research (interviewer) (2014-2015), Crisis Helpline Consultant (2012-2013), Orphans Pedagogue (2010-2011), HIV Awareness Project (performer) (2007-2010)
-- Practicing embodiment for 10+ years (Somatics, Authentic Movement, Gaga Movement Language, Vipassana Meditation, Contact Improvisation, Dragon Dreaming, Processwork, Relational Arts, etc.);
+- Studied Psychology at Saint Petersburg State University (SPBU) (2012-2015, [[Peak]] [[Experience]] And [[Death]] Narrative Research, [[in-depth]] interview method)
+- [[Fem]]ale Reproductive Health Research (interviewer) (2014-2015), [[Cris]]is Helpline Consultant (2012-2013), [[Orphan]]s Pedagogue (2010-2011), [[HIV]] Awareness Project (performer) (2007-2010)
+- Practicing embodiment for 10+ years ([[Somatics]], Authentic Movement, Gaga Movement Language, Vipassana Meditation, Contact Improvisation, Dragon Dreaming, Processwork, Relational Arts, etc.);
 - Short Distance Runner and Polyathlete (Federal level, Candidate Master of Sports, 2004-2009), Dressage Athlete (2000-2003)
-- Theatre Laboratory “Studio 12” (2014-2015, Grotowski Method);
+- Theatre Laboratory “Studio 12” (2014-2015, [[Grotowski]] Method);
 - Performance / Butoh / Street Theatre Laboratories (Alena Surikova, Boris Pavlovich, Berndt Knappe etc.)
-- Horizontal Teamworking (philosophical schools, theatre happenings), Egalitarian Communities & Intentional Communes), Eco Villages & Permaculture
-- Over 710 hours of Lacanian Psychoanalysis by october 2025
-- Practice as a Certified Death Drief Doula since december 2023
+- [[Horizontal]] Teamworking (philosophical schools, [[theatre]] happenings), Egalitarian Communities & Intentional Communes), Eco Villages & Permaculture
+- Over 710 hours of [[Lacan]]ian [[Psychoanalysis]] by October 2025
+- Practice as a Certified Death Grief Doula since december 2023 ([[griefwork]])
 
 WORKS IN PROGRESS
 - 2025: “Désarticulé” photography project, Institut Français
-- 2024: "Cogito", Universal meaning map
+- 2024: "Cogito", Universal meaning map ([[umm]])
 - 2024: "Dans la mer extracellulaire"
 - 2023-2025: photoseries with and for: circus company “Collectif XY”, Katerina Kristeva, Veronika Tikhonova, Nyctalops (andreevka), Hayk Karoyi, Alexandra Wickenden, Natalia Musikina, Ekaterina Ilina, Polina Koval, Maria Kashtanova, movement laboratory “Movement Out”, “Not her fault” feminist festival, labellecicatrice, Marcel Shock, Andreu Ubaldo and others, Georgia, Spain, France
 
