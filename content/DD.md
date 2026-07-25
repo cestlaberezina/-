@@ -1,3 +1,3 @@
 dragon dreaming
-dreaming ([[reverie]]) - [[plan]]ning -- [[act]]ing -- [[celebrat]]ing
+dreaming ([[reverie]]) - [[plan|planning]] -- [[act|acting]] -- [[celebrat|celebrating]]
 [[somatics]] [[deep ecology]] [[politic]] [[biodiversity]] [[joy]] 

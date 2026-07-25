@@ -1,3 +1,3 @@
-in neurosis, [[repress]] occurs when [[signifier]]s are turned away from [[conscious]]ness into the [[unconscious]]
+in neurosis, [[repress]] occurs when [[signifier|signifiers]] are turned away from [[conscious|consciousness]] into the [[unconscious]]
 
-[[freud]]: [[civilized morality]] is at the [[root]] of nervous illness. when [[moral]]ity gains the upper hand in this ([[drive]] vs [[ethics]]) [[conflict]], and the drives are too strong to be [[sublime]]ated, [[sex]]uality is either [[express]]ed in [[perverse]] forms or repressed, the latter leading to neurosis
+[[freud]]: [[civilized morality]] is at the [[root]] of nervous illness. when [[moral|morality]] gains the upper hand in this ([[drive]] vs [[ethics]]) [[conflict]], and the drives are too strong to be [[sublime|sublimated]], [[sex|sexuality]] is either [[express|expressed]] in [[perverse]] forms or repressed, the latter leading to neurosis

@@ -1,4 +1,4 @@
->i focus on [[natur]]e and [[subject]]ivity in people and use motor [[imaginati]]on as a method to unfold it, encouraging clients to inhabit their [[body]] and interact with inner and outer [[landscape]]s. important part of the setting is facilitating and containing of whatever happens due to the experimental modality of the process ([[trauma]] informed approach). ill guide you during the shoot, if necessary; i work [[transparen]]tly and do not support any discrimination.
+>i focus on [[natur|nature]] and [[subject|subjectivity]] in people and use motor [[imaginati|imagination]] as a method to unfold it, encouraging clients to inhabit their [[body]] and interact with inner and outer [[landscape|landscapes]]. important part of the setting is facilitating and containing of whatever happens due to the experimental modality of the process ([[trauma]] informed approach). ill guide you during the shoot, if necessary; i work [[transparen|transparently]] and do not support any discrimination.
 
 BACKGROUND
 - Studied Psychology at Saint Petersburg State University (SPBU) (2012-2015, Peak Experience And Death Narrative Research, in-depth interview method)

@@ -1,1 +1,1 @@
-to [[work]] through. a [[work]] done by the [[analysand]] about his [[resist]]ances, after [[being]] interpreted by the [[analyst]]. this [[work]] is not based on [[rational]]ity, but on the [[affect]]ive [[relationship]] [[between]] [[analyst]] and [[analysand]].
+to [[work]] through. a [[work]] done by the [[analysand]] about his [[resist|resistances]], after [[being]] interpreted by the [[analyst]]. this [[work]] is not based on [[rational|rationality]], but on the [[affect|affective]] [[relationship]] [[between]] [[analyst]] and [[analysand]].

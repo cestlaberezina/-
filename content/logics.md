@@ -1,2 +1,2 @@
 - aristotelian western
-- [[paradox]]ical [[id]] eastetn
+- [[paradox|paradoxical]] [[id]] eastetn

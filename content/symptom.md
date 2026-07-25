@@ -1,1 +1,1 @@
-the symptom is a [[metaphor]] [[lacan]] (the "[[metonymy]]ic [[object]]" is [[repress]]ssed, but returns in the [[surplus]] [[mean]] (+) produced in the [[metaphor]]
+the symptom is a [[metaphor]] [[lacan]] (the "[[metonymy|metonymic]] [[object]]" is [[repress|repressed]], but returns in the [[surplus]] [[mean]] (+) produced in the [[metaphor]]

@@ -1,6 +1,6 @@
 transcultural
 transmedial
-trans[[limit]]an
+trans[[limit|liminal]]
 [[deterritorialization]]
 
 [[circus]] [[orgasm]] [[exaltation]] 

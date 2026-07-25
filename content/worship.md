@@ -1,1 +1,1 @@
->when it comes to [[awake]]ning the hidden [[power]] of [[matter]], nothing can compare to worship. [[insult]] shatters the [[reverie]]
+>when it comes to [[awake|awakening]] the hidden [[power]] of [[matter]], nothing can compare to worship. [[insult]] shatters the [[reverie]]

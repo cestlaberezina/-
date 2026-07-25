@@ -1,3 +1,3 @@
 [[selfpreservation]]
 bichat: [[life]] is the set of
-[[forc]]s that fight ([[war]]) against [[death]]
+[[forc|forces]] that fight ([[war]]) against [[death]]

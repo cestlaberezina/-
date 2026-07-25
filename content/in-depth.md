@@ -1,1 +1,1 @@
-[[phenomen]]ological interview, [[quality]]ative methods, [[perfect moment]], [[death]] [[metaphor]], [[exist]]
+[[phenomen|phenomenological]] interview, [[quality|qualitative]] methods, [[perfect moment]], [[death]] [[metaphor]], [[exist]]

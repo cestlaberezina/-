@@ -1,1 +1,1 @@
-in search of [[ethics]] [[pur]]ity found in the [[heart]] of substances
+in search of [[ethics]] [[pur|purity]] found in the [[heart]] of substances

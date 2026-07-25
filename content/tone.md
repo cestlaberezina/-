@@ -1,3 +1,3 @@
 - in [[between]]
-- [[resonan]] as an [[express]]ion of [[experience]] of the [[subject]]
+- [[resonan]] as an [[express|expression]] of [[experience]] of the [[subject]]
 - [[libido]]

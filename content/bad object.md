@@ -4,4 +4,4 @@
 
 >one way to get rid of the bad [[object]] for sure is to die or to [[render]] yourself as [[dead child]] of the [[dead mother]]. then you are not a bad [[object]] anymore because you are not [[nothing]]
 
->the child commits [[suicide]] as the true [[self]], [[sacrifice]]s the true [[self]] to a false [[self]] that exists only in the child's imagination [[the imaginary]]. getting rid of the bad [[object]] is a reason to develop [[mortido]]. [[narcissism]]
+>the child commits [[suicide]] as the true [[self]], [[sacrifice|sacrifices]] the true [[self]] to a false [[self]] that exists only in the child's imagination [[the imaginary]]. getting rid of the bad [[object]] is a reason to develop [[mortido]]. [[narcissism]]

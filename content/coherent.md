@@ -1,2 +1,2 @@
-chained, [[logics]]ally / [[aesthetics]]ally ordered or integrated
+chained, [[logics|logically]] / [[aesthetics|aesthetically]] ordered or integrated
 [[territorialization]]

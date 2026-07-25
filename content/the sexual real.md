@@ -1,1 +1,1 @@
-what has been unfolding in the [[subject]]’s [[speech]], brings out what cannot be [[grasp]]ed within the [[structure]] of the [[signifier]], but [[involve]]s the partial [[object]]s of the [[drive]]’s [[satisfaction]]
+what has been unfolding in the [[subject]]’s [[speech]], brings out what cannot be [[grasp|grasped]] within the [[structure]] of the [[signifier]], but [[involve|involves]] the partial [[object|objects]] of the [[drive]]’s [[satisfaction]]

@@ -3,19 +3,19 @@ a state of being, daydreaming, [[poet]], as opposed to [[psychoanalysis]] [[trau
 sacralizes its [[object]] -- "from the familiar and [[beloved]] to the [[sacred]] and [[intim]] is one step
 
 [[bachelard]]
->- a psychologist is very good at seeing how [[imaginati]] is born in [[child]]ren, although he never asks why and how it fades and dies in most [[adult]]s? philosopher "within the philosophical situation" 
->- [[poet]]ic dream listens to this polyphony of [[mean]]s [[resonan]]
+>- a psychologist is very good at seeing how [[imaginati]] is born in [[child|children]], although he never asks why and how it fades and dies in most [[adult|adults]]? philosopher "within the philosophical situation" 
+>- [[poet|poetic]] dream listens to this polyphony of [[mean|means]] [[resonan]]
 >- helps to gain [[trust]] in the [[world]]
->- an [[ugly]] dream is one that turns into a siesta, and one should even ask oneself whether the [[unconscious]] does not [[suffer]] [[damage]] from this [[fall]]ing [[asleep]] in the process of its [[exist]]
->- a highly [[natur]]al [[spirit]]ual [[phenomen]]on, too necessary for mental equilibrium to be considered as a [[derivative]] of [[asleep]] 
->- dreams that take the dreamer to a completely different world make him a completely different person. and yet he remains the same, a [[double]] (dreams divide our being more [[tender]]ly, more [[natur]]ally. and with what [[biodiversity]]!)of himself. reveries - but not [[traumarbeit]] - retain [[control]] over these bifurcations. in cases that can be referred to as [[psychiatr]]ic ([[split]], the deep [[natur]] of the reverie is [[eras]]d
+>- an [[ugly]] dream is one that turns into a siesta, and one should even ask oneself whether the [[unconscious]] does not [[suffer]] [[damage]] from this [[fall|falling]] [[asleep]] in the process of its [[exist]]
+>- a highly [[natur|natural]] [[spirit|spiritual]] [[phenomen|phenomenon]], too necessary for mental equilibrium to be considered as a [[derivative]] of [[asleep]] 
+>- dreams that take the dreamer to a completely different world make him a completely different person. and yet he remains the same, a [[double]] (dreams divide our being more [[tender|tenderly]], more [[natur|naturally]]. and with what [[biodiversity]]!)of himself. reveries - but not [[traumarbeit]] - retain [[control]] over these bifurcations. in cases that can be referred to as [[psychiatr|psychiatric]] ([[split]], the deep [[natur]] of the reverie is [[eras|erased]]
 >- in his dreams man is all-powerful ([[grandiose]], [[immortality]]). psychology, based on observation, studying [[the real]] man, sees only a [[being]] devoid of any aura.
 
->- [[practic]]: Victor Hugo went out for a walk at [[dusk]] to "see some strange dreams", "i couldn't [[express]] it, it was one of those [[ineffable]] [[moment]]s when you feel something in you [[fall]]ing [[asleep]] and something [[awake]]ning"
+>- [[practic]]: Victor Hugo went out for a walk at [[dusk]] to "see some strange dreams", "i couldn't [[express]] it, it was one of those [[ineffable]] [[moment|moments]] when you feel something in you [[fall|falling]] [[asleep]] and something [[awake|awakening]]"
 >- [[practic]] one can know the [[heart]] of a person by asking him to [[express]] [[worship]] at the sight of the [[grandiose]] of the contemplated world, the world found in the deepest contemplations.
 
->- if the dreamer has "mastery", then from his dream he creates a [[work]] of [[art]]. and this work will be [[grandiose]], because the world of dreams ([[the imaginary]]) [[become]]s grandiose automatically
->- the motto of the dream in the [[fem]]inine principle. It is in the dream that we can find the basic elements of the philosophy of [[rest]]
->- some [[mean]]ful [[word]] in its own [[essence]] was taken to dream
+>- if the dreamer has "mastery", then from his dream he creates a [[work]] of [[art]]. and this work will be [[grandiose]], because the world of dreams ([[the imaginary]]) [[become|becomes]] grandiose automatically
+>- the motto of the dream in the [[fem|feminine]] principle. It is in the dream that we can find the basic elements of the philosophy of [[rest]]
+>- some [[mean|meaningful]] [[word]] in its own [[essence]] was taken to dream
 
-[[essence]] of [[imaginati]], [[child]]hood
+[[essence]] of [[imaginati]], [[child|childhood]]

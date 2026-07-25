@@ -1,2 +1,2 @@
-- [[secular]], [[mundane]], or [[world]]ly aspects of [[life]]
-- actions or [[behave]]iors are those that treat [[sacred]] [[thing]]s with dis[[respect]] or disregard
+- [[secular]], [[mundane]], or [[world|worldly]] aspects of [[life]]
+- actions or [[behave|behaviors]] are those that treat [[sacred]] [[thing|things]] with dis[[respect]] or disregard

@@ -1,1 +1,1 @@
-one benefits while the [[other]] is [[harm]]ed
+one benefits while the [[other]] is [[harm|harmed]]

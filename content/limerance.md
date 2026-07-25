@@ -1,4 +1,4 @@
->when we [[reverie]] of the [[dignity]] of the [[being]] we might [[love]]. this is how the great dreamer dreams of his [[double]]. the double he [[worship]]s [[serv]]s as his [[support]] ([[use]])
+>when we [[reverie]] of the [[dignity]] of the [[being]] we might [[love]]. this is how the great dreamer dreams of his [[double]]. the double he [[worship|worships]] [[serv|serves]] as his [[support]] ([[use]])
 
-[[embod]]iment of the [[ideal]] of [[life]] in life itself ([[reality]]) = [[symbiosis]] 
->[[reverie]]s are an [[act]]ive [[forc]] in the destiny of people who want to unite their lives in ever-increasing love. [[bachelard]]
+[[embod|embodiment]] of the [[ideal]] of [[life]] in life itself ([[reality]]) = [[symbiosis]] 
+>[[reverie|reveries]] are an [[act|active]] [[forc]] in the destiny of people who want to unite their lives in ever-increasing love. [[bachelard]]

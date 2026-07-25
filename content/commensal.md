@@ -1,1 +1,1 @@
-one [[benefit]]s and the [[other]] is not significantly [[harm]]ed or [[help]]ed
+one [[benefit|benefits]] and the [[other]] is not significantly [[harm|harmed]] or [[help|helped]]

@@ -1,1 +1,1 @@
-[[holy]] [[mean]]ful [[i-thou]]
+[[holy]] [[mean|meaningful]] [[i-thou]]

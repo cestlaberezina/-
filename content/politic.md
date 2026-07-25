@@ -1,1 +1,1 @@
-everything that is [[discours]]ive 
+everything that is [[discours|discoursive]] 

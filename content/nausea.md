@@ -1,2 +1,2 @@
-a [[dense]]ly existential ([[exist]]) [[feel]]ing [[sartre]] of [[the real]]
+a [[dense|densely]] existential ([[exist]]) [[feel|feeling]] [[sartre]] of [[the real]]
 

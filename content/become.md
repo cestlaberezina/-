@@ -1,1 +1,1 @@
->two [[hypothes]]es: [[human]] is like his [[work]] and as is something opposite to what he creates. [[bachelard]]
+>two [[hypothes|hypotheses]]: [[human]] is like his [[work]] and as is something opposite to what he creates. [[bachelard]]

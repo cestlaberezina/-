@@ -1,1 +1,1 @@
-[[homogen]]ized, [[gener]]icized, [[commodi]]fied [[place]] to better accomodate the [[expan]]sion of [[capital]]ism via [[abstract]]ion of [[space]] (lippard)
+[[homogen|homogenized]], [[gener|genericized]], [[commodi|commodified]] [[place]] to better accomodate the [[expan|expansion]] of [[capital|capitalism]] via [[abstract|abstraction]] of [[space]] (lippard)

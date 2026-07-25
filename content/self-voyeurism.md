@@ -1,1 +1,1 @@
-[[self]] [[photograph]]y
+[[self]] [[photograph|photography]]

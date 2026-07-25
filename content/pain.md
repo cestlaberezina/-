@@ -1,1 +1,1 @@
-not the same as [[suffer]]ing
+not the same as [[suffer|suffering]]

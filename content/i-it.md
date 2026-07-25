@@ -5,5 +5,5 @@ the kind of [[relationship]] developed by [[martin buber]]: the [[other]] is not
 - detached
 - [[framework]]
 - [[mundane]], practical, [[profane]]
-- de[[human]]ization and a [[loss]] of [[mean]]
+- de[[human|humanization]] and a [[loss]] of [[mean]]
 - [[object relations]]

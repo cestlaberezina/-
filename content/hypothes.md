@@ -1,1 +1,1 @@
-[[act]]ive experiments, transforms [[reverie]]s into [[experience]] = [[practic]]
+[[act|active]] experiments, transforms [[reverie|reveries]] into [[experience]] = [[practic]]

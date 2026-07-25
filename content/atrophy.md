@@ -1,1 +1,1 @@
-result of the degeneration of [[cell]]s
+result of the degeneration of [[cell|cells]]

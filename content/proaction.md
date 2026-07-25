@@ -1,1 +1,1 @@
-[[act]]ion that [[initiate]]s [[metamorphosis]]
+[[act|action]] that [[initiate|initiates]] [[metamorphosis]]

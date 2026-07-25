@@ -8,6 +8,6 @@
 - [[cobeing]]
 - [[cataly]]
 - [[the real]]
-- [[essence]]tial
+- [[essence|essential]]
 - [[internal]] as an option
 - [[resonan]]
