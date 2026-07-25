@@ -54,6 +54,14 @@ section {
     &:hover {
       background-image: $linkInkHover;
     }
+
+    &.external .external-icon > path {
+      fill: $linkInkSolid;
+    }
+
+    &.external:hover .external-icon > path {
+      fill: $linkInkSolidHover;
+    }
   }
 }
 

@@ -33,6 +33,13 @@ $bodyInk: radial-gradient($stainGeometry, #3c4c60 0%, #5d6a7b 40%, #828c99 100%)
 $linkInk: radial-gradient($stainGeometry, #6b4535 0%, #8a6350 40%, #a8846f 100%);
 $linkInkHover: radial-gradient($stainGeometry, #543628 0%, #6f4c3c 40%, #8a6752 100%);
 
+// SVG paths can't be filled by background-clip, so icons inside links take a
+// flat colour. It has to be the ramp's dark end, not its midpoint: a flat fill
+// can't track the wash, and the midpoint drops to 2.4:1 over the stain centre,
+// under the 3:1 that graphical objects need.
+$linkInkSolid: #6b4535;
+$linkInkSolidHover: #543628;
+
 @mixin gradientInk($ramp) {
   background-image: $ramp;
   background-attachment: fixed;
