@@ -21,6 +21,36 @@ $boldWeight: 700;
 $semiBoldWeight: 600;
 $normalWeight: 300;
 
+/**
+ * Cyanotype wash and the ink ramps that track it.
+ * All four share the same radial geometry so the ink stays in register with
+ * the wash. Never set these with the `background` shorthand — it resets
+ * `background-clip` back to border-box and paints the box instead of the glyphs.
+ */
+$stainGeometry: circle at 30% 70%;
+$stainWash: radial-gradient($stainGeometry, #8fb4d9, #dde5ed, #f8fafc);
+$bodyInk: radial-gradient($stainGeometry, #04203f 0%, #2b4a63 40%, #5a6675 100%);
+$linkInk: radial-gradient(circle at 30% 260%, #4a2820, #7a4a38);
+$linkInkHover: radial-gradient(circle at 30% 260%, #7a4a38, #9c6448);
+
+@mixin gradientInk($ramp) {
+  background-image: $ramp;
+  background-attachment: fixed;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+
+  // clipped text has no paintable colour, so give these back a real one
+  @media print {
+    background-image: none;
+    color: #1e2d3d;
+  }
+  @media (forced-colors: active) {
+    background-image: none;
+    color: CanvasText;
+  }
+}
+
 $mobileGrid: (
   templateRows: "auto auto auto auto auto",
   templateColumns: "auto",
