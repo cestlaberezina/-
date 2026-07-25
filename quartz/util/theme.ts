@@ -34,7 +34,9 @@ const DEFAULT_MONO = "ui-monospace, SFMono-Regular, SF Mono, Menlo, monospace"
 
 export function googleFontHref(theme: Theme) {
   const { code, header, body } = theme.typography
-  return `https://fonts.googleapis.com/css2?family=${code}&family=${header}:wght@400;700&family=${body}:ital,wght@0,400;0,600;1,400;1,600&display=swap`
+  // 300 is fetched so `font-weight: 300` resolves to a real light face rather
+  // than falling back to 400, which is what it silently did before
+  return `https://fonts.googleapis.com/css2?family=${code}&family=${header}:wght@300;400;700&family=${body}:ital,wght@0,300;0,400;0,600;1,300;1,400;1,600&display=swap`
 }
 
 export function joinStyles(theme: Theme, ...stylesheet: string[]) {

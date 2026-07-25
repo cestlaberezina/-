@@ -29,9 +29,9 @@ $normalWeight: 300;
  */
 $stainGeometry: circle at 30% 70%;
 $stainWash: radial-gradient($stainGeometry, #8fb4d9, #dde5ed, #f8fafc);
-$bodyInk: radial-gradient($stainGeometry, #04203f 0%, #2b4a63 40%, #5a6675 100%);
-$linkInk: radial-gradient(circle at 30% 260%, #4a2820, #7a4a38);
-$linkInkHover: radial-gradient(circle at 30% 260%, #7a4a38, #9c6448);
+$bodyInk: radial-gradient($stainGeometry, #3c4c60 0%, #5d6a7b 40%, #828c99 100%);
+$linkInk: radial-gradient($stainGeometry, #6b4535 0%, #8a6350 40%, #a8846f 100%);
+$linkInkHover: radial-gradient($stainGeometry, #543628 0%, #6f4c3c 40%, #8a6752 100%);
 
 @mixin gradientInk($ramp) {
   background-image: $ramp;
