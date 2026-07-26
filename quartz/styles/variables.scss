@@ -26,8 +26,18 @@ $normalWeight: 300;
  * All four share the same radial geometry so the ink stays in register with
  * the wash. Never set these with the `background` shorthand — it resets
  * `background-clip` back to border-box and paints the box instead of the glyphs.
+ *
+ * The geometry is per page: --stain-x/--stain-y come from stainStyle() in
+ * util/stain.ts, set on <body> at build time. The fallback is the position the
+ * stain had before it moved, and covers anything rendered without those.
+ *
+ * Because everything here is background-attachment: fixed, the percentages
+ * resolve against the VIEWPORT, not the element. That is what keeps the ink in
+ * register with the wash — do not add background-size to gradientInk, and do not
+ * drop the fixed attachment from either side, or the two drift apart and the
+ * contrast guarantee goes with them.
  */
-$stainGeometry: circle at 30% 70%;
+$stainGeometry: circle at var(--stain-x, 30%) var(--stain-y, 70%);
 $stainWash: radial-gradient(
   $stainGeometry,
   #3d6f9e 0%,
@@ -46,6 +56,10 @@ $linkInkHover: radial-gradient($stainGeometry, #1e100a 0%, #543628 40%, #82624f 
 // objects need once it crosses the deep part of the stain.
 $linkInkSolid: #2a1810;
 $linkInkSolidHover: #1e100a;
+
+// Flat ink for surfaces background-clip can't paint: SVG text, which fills rather
+// than colours, and canvas text in the graph. Matches the body ramp's core.
+$inkSolid: #16202c;
 
 @mixin gradientInk($ramp) {
   background-image: $ramp;

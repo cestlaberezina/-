@@ -35,10 +35,20 @@ section {
 // Ink that tracks the stain: same radial geometry as the wash, on a dark ramp,
 // both fixed to the viewport so they stay in register. Deepest cyanotype sits
 // over the heaviest part of the wash, releasing to slate at the pale edge.
+:root {
+  // canvas text in the graph can't be painted by background-clip either, and pixi
+  // reads this off the root element
+  --graphLabel: #{$inkSolid};
+}
+
 :root:not([saved-theme="dark"]) {
   p,
   li,
   blockquote,
+  td,
+  th,
+  .katex,
+  .math,
   h1,
   h2,
   h3,
@@ -46,6 +56,11 @@ section {
   h5,
   h6 {
     @include gradientInk($bodyInk);
+  }
+
+  // SVG text fills rather than colours, so background-clip is a no-op on it
+  text {
+    fill: $inkSolid;
   }
 
   a {
