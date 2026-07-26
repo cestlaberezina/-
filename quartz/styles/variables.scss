@@ -28,17 +28,24 @@ $normalWeight: 300;
  * `background-clip` back to border-box and paints the box instead of the glyphs.
  */
 $stainGeometry: circle at 30% 70%;
-$stainWash: radial-gradient($stainGeometry, #8fb4d9, #dde5ed, #f8fafc);
-$bodyInk: radial-gradient($stainGeometry, #3c4c60 0%, #5d6a7b 40%, #828c99 100%);
-$linkInk: radial-gradient($stainGeometry, #6b4535 0%, #8a6350 40%, #a8846f 100%);
-$linkInkHover: radial-gradient($stainGeometry, #543628 0%, #6f4c3c 40%, #8a6752 100%);
+$stainWash: radial-gradient(
+  $stainGeometry,
+  #3d6f9e 0%,
+  #7aa6d0 25%,
+  #bcd2e6 55%,
+  #dde5ed 78%,
+  #f8fafc 100%
+);
+$bodyInk: radial-gradient($stainGeometry, #16202c 0%, #46525f 40%, #828c99 100%);
+$linkInk: radial-gradient($stainGeometry, #2a1810 0%, #6b4535 40%, #a8846f 100%);
+$linkInkHover: radial-gradient($stainGeometry, #1e100a 0%, #543628 40%, #82624f 100%);
 
 // SVG paths can't be filled by background-clip, so icons inside links take a
 // flat colour. It has to be the ramp's dark end, not its midpoint: a flat fill
-// can't track the wash, and the midpoint drops to 2.4:1 over the stain centre,
-// under the 3:1 that graphical objects need.
-$linkInkSolid: #6b4535;
-$linkInkSolidHover: #543628;
+// can't track the wash, and the midpoint drops below the 3:1 that graphical
+// objects need once it crosses the deep part of the stain.
+$linkInkSolid: #2a1810;
+$linkInkSolidHover: #1e100a;
 
 @mixin gradientInk($ramp) {
   background-image: $ramp;
